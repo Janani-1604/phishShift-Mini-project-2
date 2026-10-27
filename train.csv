@@ -1,0 +1,1864 @@
+message_id,channel,subject_or_title,body_text,sanitized_url_features,sender_domain_type,label,campaign_group,collected_date,urgent_legit
+M00001,email,URGENT: YOUR ACCOUNT HAS BEEN SUSPENDED,"Dear customer,
+Failure to confirm your details within 24 hours will result in permanent closure.!!
+Log in immediately at hxxps://account-acme-check[.]test/update-account to restore access.
+Thank you, Security Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,acct_suspended,2026-01-16,0
+M00002,email,Action required: verify your account now,"Dear customer,
+We detected unusual activity and your account has been suspended.!!
+Log in immediately at hxxps://portal-acme[.]test/sign-in to restore access.
+Do not ignore this message.",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,acct_suspended,2026-01-16,0
+M00003,email,ACTION REQUIRED: VERIFY YOUR ACCOUNT NOW,"Dear user,
+We could not validate your information and your account will be closed today.
+Verify your account here: hxxps://hrportal-workspace[.]test/portal
+Thank you, Security Team",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,1,acct_suspended,2026-01-14,0
+M00004,email,Action required: verify your account now,"Dear customer,
+Your account access is limited until you verify your identity immediately.
+Click here to verify now: hxxps://login-acme-portal[.]test/login
+Thank you, Security Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,acct_suspended,2026-01-12,0
+M00005,email,Final warning: account closure,"Hello Karan,
+Your account access is limited until you verify your identity immediately.
+Click here to verify now: hxxps://login-mailbox-online[.]test/claim
+Thank you, Security Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,acct_suspended,2026-01-22,0
+M00006,email,Final warning: account closure,"Dear user,
+Your account access is limited until you verify your identity immediately.
+Confirm your password and card details at hxxps://docs-workspace[.]test/open.
+Thank you, Security Team",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,acct_suspended,2026-01-16,0
+M00007,email,URGENT: YOUR ACCOUNT HAS BEEN SUSPENDED,"Dear user,
+Failure to confirm your details within 24 hours will result in permanent closure.!!
+Confirm your password and card details at hxxps://login-cloudsvc-center[.]test/update-account.
+Thank you, Security Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,internal,1,acct_suspended,2026-01-09,0
+M00008,email,URGENT: Your account has been suspended,"Attention Karan,
+We could not validate your information and your account will be closed today.!!
+Log in immediately at hxxps://account-acme-center[.]test/secure/confirm to restore access.
+Do not ignore this message.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,acct_suspended,2026-01-17,0
+M00009,email,Security alert: account locked,"Dear customer,
+We detected unusual activity and your account has been suspended.!!
+Confirm your password and card details at hxxps://support-mailbox-check[.]test/verify.
+Thank you, Security Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,acct_suspended,2026-01-10,0
+M00010,email,SECURITY ALERT: ACCOUNT LOCKED,"Hello Arjun,
+We could not validate your information and your account will be closed today.
+Click here to verify now: hxxps://verify-bankcorp-online[.]test/update-account
+Do not ignore this message.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,acct_suspended,2026-01-06,0
+M00011,email,ACTION REQUIRED: VERIFY YOUR ACCOUNT NOW,"Dear customer,
+Your account has been locked due to suspicious sign-in attempts.!!
+Log in immediately at hxxps://support-cloudsvc-center[.]test/claim to restore access.
+Do not ignore this message.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,internal,1,acct_suspended,2026-01-23,0
+M00012,email,URGENT: Your account has been suspended,"Hello Priya,
+Your account has been locked due to suspicious sign-in attempts.
+Click here to verify now: hxxps://verify-payments-online[.]test/update-account
+Do not ignore this message.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,acct_suspended,2026-01-07,0
+M00013,email,FINAL WARNING: ACCOUNT CLOSURE,"Dear customer,
+We could not validate your information and your account will be closed today.
+Click here to verify now: hxxps://account-acme-check[.]test/verify
+Do not ignore this message.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,acct_suspended,2026-01-18,0
+M00014,email,FINAL WARNING: ACCOUNT CLOSURE,"Dear customer,
+Your account has been locked due to suspicious sign-in attempts.
+Confirm your password and card details at hxxps://login-bankcorp-online[.]test/login.
+Support Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,acct_suspended,2026-01-25,0
+M00015,email,FINAL WARNING: ACCOUNT CLOSURE,"Hello Vikram,
+We detected unusual activity and your account has been suspended.
+Click here to verify now: hxxps://account-payments-portal[.]test/secure/confirm
+Do not ignore this message.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,acct_suspended,2026-01-09,0
+M00016,email,FINAL WARNING: ACCOUNT CLOSURE,"Dear customer,
+We detected unusual activity and your account has been suspended.
+Confirm your password and card details at hxxps://login-payments-center[.]test/login.
+Do not ignore this message.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,acct_suspended,2026-01-18,0
+M00017,email,FINAL WARNING: ACCOUNT CLOSURE,"Hello Meera,
+Failure to confirm your details within 24 hours will result in permanent closure.
+Click here to verify now: hxxps://verify-mailbox-online[.]test/verify
+Thank you, Security Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,acct_suspended,2026-01-23,0
+M00018,email,URGENT: YOUR ACCOUNT HAS BEEN SUSPENDED,"Attention Rahul,
+We could not validate your information and your account will be closed today.!!
+Click here to verify now: hxxps://share-team[.]test/portal
+Thank you, Security Team",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,acct_suspended,2026-01-20,0
+M00019,email,URGENT: YOUR ACCOUNT HAS BEEN SUSPENDED,"Dear customer,
+We could not validate your information and your account will be closed today.
+Log in immediately at hxxps://account-mailbox-check[.]test/update-account to restore access.
+Support Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,acct_suspended,2026-01-19,0
+M00020,email,Security alert: account locked,"Dear user,
+Your account access is limited until you verify your identity immediately.
+Verify your account here: hxxps://login-acme-center[.]test/pay
+Thank you, Security Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,partner,1,acct_suspended,2026-01-07,0
+M00021,email,FINAL WARNING: ACCOUNT CLOSURE,"Dear customer,
+We detected unusual activity and your account has been suspended.
+Verify your account here: hxxps://verify-acme-check[.]test/secure/confirm
+Thank you, Security Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,acct_suspended,2026-01-19,0
+M00022,email,Security alert: account locked,"Dear user,
+Your account has been locked due to suspicious sign-in attempts.!!
+Verify your account here: hxxps://portal-acme[.]test/portal
+Thank you, Security Team",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,acct_suspended,2026-01-20,0
+M00023,email,Security alert: account locked,"Attention Karan,
+We detected unusual activity and your account has been suspended.
+Verify your account here: hxxps://hrportal-acme[.]test/view/43
+Thank you, Security Team",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,acct_suspended,2026-01-13,0
+M00024,email,URGENT: Your account has been suspended,"Attention Priya,
+Your account access is limited until you verify your identity immediately.!!
+Verify your account here: hxxps://portal-acme[.]test/sign-in
+Do not ignore this message.",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,acct_suspended,2026-01-09,0
+M00025,email,FINAL WARNING: ACCOUNT CLOSURE,"Dear customer,
+We detected unusual activity and your account has been suspended.!!
+Verify your account here: hxxps://verify-cloudsvc-check[.]test/claim
+Do not ignore this message.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,acct_suspended,2026-01-19,0
+M00026,email,FINAL WARNING: ACCOUNT CLOSURE,"Hello Meera,
+We detected unusual activity and your account has been suspended.!!
+Confirm your password and card details at hxxps://verify-mailbox-center[.]test/login.
+Do not ignore this message.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,acct_suspended,2026-01-24,0
+M00027,email,URGENT: YOUR ACCOUNT HAS BEEN SUSPENDED,"Attention Sneha,
+We detected unusual activity and your account has been suspended.
+Log in immediately at hxxps://files-workspace[.]test/portal to restore access.
+Do not ignore this message.",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,acct_suspended,2026-01-14,0
+M00028,email,URGENT: YOUR ACCOUNT HAS BEEN SUSPENDED,"Dear user,
+Your account has been locked due to suspicious sign-in attempts.
+Click here to verify now: hxxps://account-mailbox-portal[.]test/login
+Thank you, Security Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,acct_suspended,2026-01-17,0
+M00029,email,SECURITY ALERT: ACCOUNT LOCKED,"Attention Karan,
+Your account access is limited until you verify your identity immediately.
+Confirm your password and card details at hxxps://secure-cloudsvc-check[.]test/update-account.
+Thank you, Security Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,acct_suspended,2026-01-07,0
+M00030,email,Final warning: account closure,"Hello Meera,
+We could not validate your information and your account will be closed today.
+Click here to verify now: hxxps://support-bankcorp-center[.]test/update-account
+Do not ignore this message.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,acct_suspended,2026-01-25,0
+M00032,email,FINAL WARNING: ACCOUNT CLOSURE,"Dear user,
+We could not validate your information and your account will be closed today.!!
+Log in immediately at hxxps://login-bankcorp-center[.]test/pay to restore access.
+Do not ignore this message.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,acct_suspended,2026-01-12,0
+M00033,email,URGENT: YOUR ACCOUNT HAS BEEN SUSPENDED,"Attention Divya,
+We detected unusual activity and your account has been suspended.!!
+Confirm your password and card details at hxxps://account-acme-center[.]test/claim.
+Thank you, Security Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,acct_suspended,2026-01-07,0
+M00034,email,SECURITY ALERT: ACCOUNT LOCKED,"Dear customer,
+We could not validate your information and your account will be closed today.
+Click here to verify now: hxxps://docs-team[.]test/sign-in
+Do not ignore this message.",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,acct_suspended,2026-01-17,0
+M00035,email,Final warning: account closure,"Hello Arjun,
+Failure to confirm your details within 24 hours will result in permanent closure.!!
+Log in immediately at hxxps://login-mailbox-center[.]test/verify to restore access.
+Do not ignore this message.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,acct_suspended,2026-01-23,0
+M00036,email,URGENT: Your account has been suspended,"Dear user,
+Your account has been locked due to suspicious sign-in attempts.
+Confirm your password and card details at hxxps://portal-workspace[.]test/open.
+Do not ignore this message.",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,acct_suspended,2026-01-20,0
+M00037,email,URGENT: YOUR ACCOUNT HAS BEEN SUSPENDED,"Attention Rahul,
+We could not validate your information and your account will be closed today.
+Confirm your password and card details at hxxps://hrportal-workspace[.]test/portal.
+Do not ignore this message.",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,acct_suspended,2026-01-23,0
+M00038,email,ACTION REQUIRED: VERIFY YOUR ACCOUNT NOW,"Dear user,
+We could not validate your information and your account will be closed today.!!
+Confirm your password and card details at hxxps://secure-acme-check[.]test/verify.
+Support Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,acct_suspended,2026-01-09,0
+M00039,email,URGENT: Your account has been suspended,"Dear customer,
+Failure to confirm your details within 24 hours will result in permanent closure.!!
+Verify your account here: hxxps://login-bankcorp-portal[.]test/secure/confirm
+Support Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,acct_suspended,2026-01-22,0
+M00040,email,SECURITY ALERT: ACCOUNT LOCKED,"Dear customer,
+Your account access is limited until you verify your identity immediately.
+Click here to verify now: hxxps://share-team[.]test/view/74
+Do not ignore this message.",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,acct_suspended,2026-01-23,0
+M00042,email,Final warning: account closure,"Attention Arjun,
+Your account has been locked due to suspicious sign-in attempts.
+Confirm your password and card details at hxxps://verify-mailbox-check[.]test/update-account.
+Support Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,acct_suspended,2026-01-25,0
+M00043,email,You are our lucky winner,"Great news!
+You are the lucky winner of a brand new phone.
+Reply YES and visit hxxps://secure-acme-portal[.]test/update-account to claim.
+T&Cs apply.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,lottery_prize,2026-01-24,0
+M00044,email,You are our lucky winner,"Hi Divya,
+A cash reward of 3832 USD is waiting for you.
+Reply YES and visit hxxps://login-acme-portal[.]test/login to claim.
+Limited time only!",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,lottery_prize,2026-01-24,0
+M00045,email,You are our lucky winner,"Congratulations Vikram!
+You have won an exclusive vacation package.
+Offer ends tonight, claim at hxxps://verify-acme-check[.]test/verify
+T&Cs apply.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,lottery_prize,2026-02-02,0
+M00046,email,"Congratulations, you won!","Great news!
+A cash reward of 4480 USD is waiting for you.!!
+Click hxxps://login-mailbox-online[.]test/claim to collect your reward today.
+Limited time only!",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,lottery_prize,2026-01-19,0
+M00047,email,YOU ARE OUR LUCKY WINNER,"Congratulations Divya!
+A cash reward of 1454 USD is waiting for you.
+Offer ends tonight, claim at hxxps://support-bankcorp-check[.]test/login
+Limited time only!",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,lottery_prize,2026-01-19,0
+M00048,email,Prize notification,"Hi Imran,
+You have won an exclusive vacation package.!!
+Click hxxps://account-mailbox-portal[.]test/secure/confirm to collect your reward today.
+Free entry, no purchase needed.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,lottery_prize,2026-02-02,0
+M00049,email,CLAIM YOUR FREE GIFT CARD,"Dear winner,
+You are the lucky winner of a brand new phone.
+Reply YES and visit hxxps://shrt[.]test/tvzkhi to claim.
+Free entry, no purchase needed.",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,lottery_prize,2026-01-18,0
+M00050,email,Claim your free gift card,"Great news!
+You have been selected to receive a free 479 USD gift card.!!
+Offer ends tonight, claim at hxxps://share-team[.]test/sign-in
+Limited time only!",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,lottery_prize,2026-01-19,0
+M00051,email,YOU ARE OUR LUCKY WINNER,"Great news!
+You have been selected to receive a free 3710 USD gift card.!!
+Click hxxps://files-workspace[.]test/sign-in to collect your reward today.
+T&Cs apply.",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,lottery_prize,2026-01-27,0
+M00052,email,PRIZE NOTIFICATION,"Great news!
+You are the lucky winner of a brand new phone.!!
+Claim your prize now at hxxps://secure-bankcorp-online[.]test/claim
+Limited time only!",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,lottery_prize,2026-02-06,0
+M00053,email,You are our lucky winner,"Hi Rahul,
+You have been selected to receive a free 2316 USD gift card.!!
+Click hxxps://portal-team[.]test/portal to collect your reward today.
+Free entry, no purchase needed.",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,lottery_prize,2026-01-31,0
+M00054,email,PRIZE NOTIFICATION,"Congratulations Sneha!
+A cash reward of 4732 USD is waiting for you.!!
+Offer ends tonight, claim at hxxps://shrt[.]test/z3v6di
+T&Cs apply.",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,lottery_prize,2026-02-02,0
+M00055,email,CLAIM YOUR FREE GIFT CARD,"Hi Karan,
+You have been selected to receive a free 1636 USD gift card.
+Offer ends tonight, claim at hxxps://lnk[.]test/e4xyf9
+T&Cs apply.",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,lottery_prize,2026-02-07,0
+M00056,email,Claim your free gift card,"Hi Divya,
+You have won an exclusive vacation package.
+Offer ends tonight, claim at hxxps://secure-mailbox-center[.]test/claim
+T&Cs apply.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,lottery_prize,2026-02-02,0
+M00057,email,Prize notification,"Hi Arjun,
+A cash reward of 858 USD is waiting for you.
+Offer ends tonight, claim at hxxps://portal-acme[.]test/sign-in
+Free entry, no purchase needed.",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,lottery_prize,2026-01-19,0
+M00058,email,Claim your free gift card,"Great news!
+You have won an exclusive vacation package.!!
+Click hxxps://verify-mailbox-center[.]test/update-account to collect your reward today.
+Free entry, no purchase needed.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,partner,1,lottery_prize,2026-01-24,0
+M00059,email,PRIZE NOTIFICATION,"Great news!
+You are the lucky winner of a brand new phone.!!
+Reply YES and visit hxxps://support-cloudsvc-portal[.]test/update-account to claim.
+Free entry, no purchase needed.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,lottery_prize,2026-01-18,0
+M00060,email,"Congratulations, you won!","Great news!
+You have been selected to receive a free 3644 USD gift card.
+Offer ends tonight, claim at hxxps://docs-acme[.]test/sign-in
+T&Cs apply.",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,lottery_prize,2026-02-03,0
+M00061,email,You are our lucky winner,"Hi Imran,
+You are the lucky winner of a brand new phone.!!
+Claim your prize now at hxxps://login-payments-check[.]test/login
+Limited time only!",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,lottery_prize,2026-02-04,0
+M00062,email,Claim your free gift card,"Hi Anita,
+You have won an exclusive vacation package.!!
+Claim your prize now at hxxps://shrt[.]test/ewbxxg
+Free entry, no purchase needed.",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,lottery_prize,2026-01-18,0
+M00063,email,"Congratulations, you won!","Congratulations Rahul!
+Your number won our weekly prize draw of 4245 USD.!!
+Claim your prize now at hxxps://verify-payments-portal[.]test/login
+Free entry, no purchase needed.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,lottery_prize,2026-01-24,0
+M00064,email,You are our lucky winner,"Dear winner,
+You have been selected to receive a free 4277 USD gift card.
+Offer ends tonight, claim at hxxps://account-cloudsvc-center[.]test/pay
+Limited time only!",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,lottery_prize,2026-01-28,0
+M00065,email,Claim your free gift card,"Hi Rahul,
+You are the lucky winner of a brand new phone.
+Click hxxps://shrt[.]test/qot8hl to collect your reward today.
+Limited time only!",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,lottery_prize,2026-02-05,0
+M00066,email,CLAIM YOUR FREE GIFT CARD,"Congratulations Meera!
+You have been selected to receive a free 2311 USD gift card.!!
+Claim your prize now at hxxps://shrt[.]test/b7p0rn
+Limited time only!",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,lottery_prize,2026-01-26,0
+M00067,email,"CONGRATULATIONS, YOU WON!","Hi Meera,
+You have won an exclusive vacation package.
+Reply YES and visit hxxps://account-bankcorp-check[.]test/login to claim.
+T&Cs apply.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,lottery_prize,2026-01-28,0
+M00068,email,YOU ARE OUR LUCKY WINNER,"Great news!
+You have been selected to receive a free 2943 USD gift card.!!
+Claim your prize now at hxxps://support-bankcorp-check[.]test/update-account
+Limited time only!",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,lottery_prize,2026-01-20,0
+M00069,email,You are our lucky winner,"Great news!
+You are the lucky winner of a brand new phone.
+Click hxxps://files-workspace[.]test/sign-in to collect your reward today.
+T&Cs apply.",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,lottery_prize,2026-01-31,0
+M00070,email,YOU ARE OUR LUCKY WINNER,"Hi Sneha,
+Your number won our weekly prize draw of 4936 USD.
+Claim your prize now at hxxps://verify-bankcorp-portal[.]test/claim
+Limited time only!",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,lottery_prize,2026-02-01,0
+M00071,email,"Congratulations, you won!","Great news!
+A cash reward of 666 USD is waiting for you.!!
+Offer ends tonight, claim at hxxps://account-mailbox-check[.]test/login
+Free entry, no purchase needed.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,partner,1,lottery_prize,2026-02-07,0
+M00072,email,You are our lucky winner,"Great news!
+You are the lucky winner of a brand new phone.!!
+Claim your prize now at hxxps://portal-workspace[.]test/view/68
+Limited time only!",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,lottery_prize,2026-01-27,0
+M00073,email,CLAIM YOUR FREE GIFT CARD,"Great news!
+A cash reward of 257 USD is waiting for you.
+Claim your prize now at hxxps://hrportal-workspace[.]test/view/92
+Limited time only!",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,lottery_prize,2026-02-02,0
+M00074,email,CLAIM YOUR FREE GIFT CARD,"Great news!
+Your number won our weekly prize draw of 3843 USD.
+Reply YES and visit hxxps://lnk[.]test/2hhihx to claim.
+T&Cs apply.",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,1,lottery_prize,2026-01-27,0
+M00075,email,You are our lucky winner,"Dear winner,
+You have won an exclusive vacation package.
+Click hxxps://short[.]test/x9jpnb to collect your reward today.
+Limited time only!",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,lottery_prize,2026-01-24,0
+M00076,email,"Congratulations, you won!","Hi Vikram,
+You have won an exclusive vacation package.!!
+Reply YES and visit hxxps://share-team[.]test/sign-in to claim.
+Free entry, no purchase needed.",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,lottery_prize,2026-01-30,0
+M00077,email,Claim your free gift card,"Dear winner,
+You have been selected to receive a free 3023 USD gift card.!!
+Claim your prize now at hxxps://verify-payments-center[.]test/claim
+Free entry, no purchase needed.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,lottery_prize,2026-01-18,0
+M00078,email,Claim your free gift card,"Hi Karan,
+You have been selected to receive a free 4086 USD gift card.!!
+Reply YES and visit hxxps://support-bankcorp-online[.]test/verify to claim.
+T&Cs apply.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,lottery_prize,2026-01-21,0
+M00079,email,You are our lucky winner,"Congratulations Imran!
+You are the lucky winner of a brand new phone.
+Reply YES and visit hxxps://verify-payments-check[.]test/verify to claim.
+T&Cs apply.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,lottery_prize,2026-01-22,0
+M00080,email,Prize notification,"Hi Rahul,
+You have been selected to receive a free 3864 USD gift card.!!
+Offer ends tonight, claim at hxxps://share-workspace[.]test/open
+Free entry, no purchase needed.",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,1,lottery_prize,2026-02-01,0
+M00081,email,Claim your free gift card,"Congratulations Rahul!
+A cash reward of 3895 USD is waiting for you.
+Claim your prize now at hxxps://login-payments-check[.]test/update-account
+Limited time only!",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,lottery_prize,2026-01-26,0
+M00082,email,Prize notification,"Dear winner,
+You are the lucky winner of a brand new phone.
+Claim your prize now at hxxps://secure-cloudsvc-check[.]test/claim
+Free entry, no purchase needed.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,lottery_prize,2026-02-04,0
+M00083,email,You are our lucky winner,"Dear winner,
+Your number won our weekly prize draw of 483 USD.
+Reply YES and visit hxxps://verify-bankcorp-portal[.]test/update-account to claim.
+T&Cs apply.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,lottery_prize,2026-01-19,0
+M00084,email,Prize notification,"Hi Divya,
+A cash reward of 2306 USD is waiting for you.
+Reply YES and visit hxxps://secure-acme-center[.]test/login to claim.
+T&Cs apply.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,lottery_prize,2026-01-28,0
+M00085,email,PAYMENT FAILED FOR INVOICE INV-1144,"Hello Rahul,
+Your invoice INV-9468 is now past due.
+Pay now: hxxps://files-workspace[.]test/sign-in
+Accounts Team",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,invoice_fake,2026-02-13,0
+M00086,email,INVOICE INV-5127 OVERDUE,"Hello Arjun,
+Your invoice INV-2938 is now past due.
+Settle your balance immediately at hxxps://secure-bankcorp-check[.]test/claim
+Accounts Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,invoice_fake,2026-02-05,0
+M00087,email,PAYMENT FAILED FOR INVOICE INV-7456,"Hello Anita,
+An outstanding balance of 1828 USD must be settled today.!!
+Open the invoice at hxxps://account-mailbox-center[.]test/verify and enter your card details.
+Accounts Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,invoice_fake,2026-02-20,0
+M00088,email,Payment failed for invoice INV-6971,"Dear customer,
+We have not received payment of 2736 USD. Pay immediately to avoid penalties.
+Pay now: hxxps://verify-payments-online[.]test/secure/confirm
+Regards, Billing",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,invoice_fake,2026-02-18,0
+M00089,email,FINAL REMINDER: UNPAID INVOICE,"Hello Karan,
+Invoice INV-1662 for 1217 USD is overdue and legal action may follow.
+Open the invoice at hxxps://share-workspace[.]test/open and enter your card details.
+Accounts Team",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,invoice_fake,2026-02-08,0
+M00090,email,Overdue payment notice,"Hello Priya,
+An outstanding balance of 1551 USD must be settled today.!!
+Settle your balance immediately at hxxps://support-acme-center[.]test/claim
+Ignoring this will result in extra fees.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,invoice_fake,2026-02-01,0
+M00091,email,Payment failed for invoice INV-8891,"Dear customer,
+Your payment of 2827 USD failed and your service will be cancelled.!!
+Open the invoice at hxxps://support-payments-check[.]test/pay and enter your card details.
+Regards, Billing",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,invoice_fake,2026-02-04,0
+M00092,email,Invoice INV-7971 overdue,"Dear Divya,
+Your invoice INV-2930 is now past due.
+Settle your balance immediately at hxxps://secure-cloudsvc-online[.]test/login
+Ignoring this will result in extra fees.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,partner,1,invoice_fake,2026-02-12,0
+M00093,email,Payment failed for invoice INV-2951,"Dear Vikram,
+Your invoice INV-1086 is now past due.
+Settle your balance immediately at hxxps://verify-cloudsvc-online[.]test/secure/confirm
+Regards, Billing",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,internal,1,invoice_fake,2026-02-05,0
+M00094,email,FINAL REMINDER: UNPAID INVOICE,"Dear Karan,
+Invoice INV-2124 for 1660 USD is overdue and legal action may follow.
+View and pay the invoice at hxxps://support-mailbox-portal[.]test/verify
+Accounts Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,invoice_fake,2026-02-16,0
+M00095,email,Overdue payment notice,"Accounts department here.
+Invoice INV-5314 for 4408 USD is overdue and legal action may follow.!!
+Open the invoice at hxxps://support-mailbox-online[.]test/claim and enter your card details.
+Accounts Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,invoice_fake,2026-02-08,0
+M00096,email,Payment failed for invoice INV-8901,"Hello Imran,
+Your payment of 4744 USD failed and your service will be cancelled.!!
+View and pay the invoice at hxxps://verify-bankcorp-check[.]test/verify
+Accounts Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,invoice_fake,2026-02-11,0
+M00097,email,OVERDUE PAYMENT NOTICE,"Hello Karan,
+Your invoice INV-1159 is now past due.
+Open the invoice at hxxps://hrportal-acme[.]test/sign-in and enter your card details.
+Regards, Billing",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,invoice_fake,2026-02-20,0
+M00098,email,Invoice INV-8322 overdue,"Dear Sneha,
+We have not received payment of 4702 USD. Pay immediately to avoid penalties.!!
+Open the invoice at hxxps://short[.]test/myvuxt and enter your card details.
+Ignoring this will result in extra fees.",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,invoice_fake,2026-01-31,0
+M00099,email,PAYMENT FAILED FOR INVOICE INV-5053,"Hello Vikram,
+We have not received payment of 2684 USD. Pay immediately to avoid penalties.!!
+Pay now: hxxps://shrt[.]test/tao1cj
+Regards, Billing",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,invoice_fake,2026-02-13,0
+M00100,email,OVERDUE PAYMENT NOTICE,"Hello Imran,
+We have not received payment of 2067 USD. Pay immediately to avoid penalties.!!
+Pay now: hxxps://support-bankcorp-center[.]test/secure/confirm
+Regards, Billing",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,invoice_fake,2026-02-19,0
+M00101,email,Final reminder: unpaid invoice,"Hello Priya,
+We have not received payment of 279 USD. Pay immediately to avoid penalties.!!
+Pay now: hxxps://secure-cloudsvc-check[.]test/login
+Regards, Billing",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,invoice_fake,2026-02-03,0
+M00102,email,PAYMENT FAILED FOR INVOICE INV-4866,"Dear Rahul,
+An outstanding balance of 3913 USD must be settled today.
+Open the invoice at hxxps://account-acme-check[.]test/secure/confirm and enter your card details.
+Ignoring this will result in extra fees.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,invoice_fake,2026-02-11,0
+M00103,email,Final reminder: unpaid invoice,"Hello Rahul,
+Invoice INV-7014 for 2442 USD is overdue and legal action may follow.!!
+Settle your balance immediately at hxxps://account-mailbox-check[.]test/claim
+Ignoring this will result in extra fees.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,invoice_fake,2026-02-13,0
+M00104,email,Overdue payment notice,"Dear customer,
+Invoice INV-5355 for 3043 USD is overdue and legal action may follow.
+Pay now: hxxps://short[.]test/du4xsz
+Regards, Billing",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,1,invoice_fake,2026-02-17,0
+M00105,email,Final reminder: unpaid invoice,"Dear customer,
+Your invoice INV-5162 is now past due.
+Open the invoice at hxxps://login-payments-check[.]test/login and enter your card details.
+Accounts Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,invoice_fake,2026-02-17,0
+M00106,email,PAYMENT FAILED FOR INVOICE INV-7550,"Dear customer,
+Invoice INV-7251 for 2480 USD is overdue and legal action may follow.
+Settle your balance immediately at hxxps://account-bankcorp-center[.]test/secure/confirm
+Ignoring this will result in extra fees.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,invoice_fake,2026-02-07,0
+M00107,email,PAYMENT FAILED FOR INVOICE INV-1807,"Dear customer,
+An outstanding balance of 4016 USD must be settled today.!!
+Settle your balance immediately at hxxps://support-cloudsvc-check[.]test/login
+Accounts Team",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,invoice_fake,2026-02-20,0
+M00108,email,INVOICE INV-2823 OVERDUE,"Accounts department here.
+Your payment of 2138 USD failed and your service will be cancelled.!!
+Open the invoice at hxxps://short[.]test/hn14eb and enter your card details.
+Accounts Team",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,1,invoice_fake,2026-02-11,0
+M00109,email,Invoice INV-8503 overdue,"Dear customer,
+We have not received payment of 2902 USD. Pay immediately to avoid penalties.
+Settle your balance immediately at hxxps://login-cloudsvc-check[.]test/secure/confirm
+Regards, Billing",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,invoice_fake,2026-02-20,0
+M00110,email,PAYMENT FAILED FOR INVOICE INV-4314,"Dear Divya,
+Your payment of 4585 USD failed and your service will be cancelled.!!
+View and pay the invoice at hxxps://verify-cloudsvc-center[.]test/claim
+Ignoring this will result in extra fees.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,partner,1,invoice_fake,2026-02-19,0
+M00111,email,OVERDUE PAYMENT NOTICE,"Hello Sneha,
+Your invoice INV-4323 is now past due.
+View and pay the invoice at hxxps://secure-mailbox-check[.]test/pay
+Regards, Billing",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,invoice_fake,2026-02-17,0
+M00112,email,Invoice INV-1893 overdue,"Dear customer,
+An outstanding balance of 4496 USD must be settled today.!!
+Settle your balance immediately at hxxps://shrt[.]test/swbkok
+Regards, Billing",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,invoice_fake,2026-02-16,0
+M00113,email,PAYMENT FAILED FOR INVOICE INV-5146,"Accounts department here.
+Your invoice INV-7719 is now past due.!!
+View and pay the invoice at hxxps://hrportal-team[.]test/open
+Regards, Billing",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,invoice_fake,2026-02-19,0
+M00114,email,Overdue payment notice,"Accounts department here.
+Invoice INV-7779 for 2268 USD is overdue and legal action may follow.
+Pay now: hxxps://share-workspace[.]test/open
+Regards, Billing",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,invoice_fake,2026-02-04,0
+M00115,email,Final reminder: unpaid invoice,"Dear Divya,
+An outstanding balance of 2816 USD must be settled today.!!
+View and pay the invoice at hxxps://shrt[.]test/we429o
+Accounts Team",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,invoice_fake,2026-02-18,0
+M00116,email,Overdue payment notice,"Dear customer,
+Your payment of 2496 USD failed and your service will be cancelled.!!
+Open the invoice at hxxps://hrportal-workspace[.]test/open and enter your card details.
+Ignoring this will result in extra fees.",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,1,invoice_fake,2026-02-16,0
+M00118,email,Final reminder: unpaid invoice,"Dear customer,
+Your payment of 1197 USD failed and your service will be cancelled.
+Pay now: hxxps://shrt[.]test/gvv4zw
+Ignoring this will result in extra fees.",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,invoice_fake,2026-02-03,0
+M00119,email,FINAL REMINDER: UNPAID INVOICE,"Dear customer,
+We have not received payment of 658 USD. Pay immediately to avoid penalties.
+Pay now: hxxps://support-payments-online[.]test/update-account
+Ignoring this will result in extra fees.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,invoice_fake,2026-02-04,0
+M00120,email,Invoice INV-9362 overdue,"Hello Meera,
+Your payment of 2331 USD failed and your service will be cancelled.!!
+Settle your balance immediately at hxxps://portal-team[.]test/sign-in
+Accounts Team",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,partner,1,invoice_fake,2026-02-04,0
+M00121,email,PAYMENT FAILED FOR INVOICE INV-4698,"Dear customer,
+Invoice INV-1620 for 4741 USD is overdue and legal action may follow.
+Pay now: hxxps://shrt[.]test/46z7wq
+Regards, Billing",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,1,invoice_fake,2026-02-02,0
+M00122,email,OVERDUE PAYMENT NOTICE,"Dear customer,
+We have not received payment of 2410 USD. Pay immediately to avoid penalties.!!
+Pay now: hxxps://login-cloudsvc-online[.]test/update-account
+Ignoring this will result in extra fees.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,invoice_fake,2026-02-07,0
+M00123,email,Final reminder: unpaid invoice,"Hello Divya,
+Your invoice INV-7390 is now past due.
+Pay now: hxxps://secure-bankcorp-portal[.]test/claim
+Ignoring this will result in extra fees.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,invoice_fake,2026-02-08,0
+M00124,email,Overdue payment notice,"Dear customer,
+We have not received payment of 4887 USD. Pay immediately to avoid penalties.
+Settle your balance immediately at hxxps://files-team[.]test/view/80
+Ignoring this will result in extra fees.",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,invoice_fake,2026-02-10,0
+M00125,email,OVERDUE PAYMENT NOTICE,"Hello Meera,
+Invoice INV-5105 for 617 USD is overdue and legal action may follow.!!
+Open the invoice at hxxps://portal-acme[.]test/view/66 and enter your card details.
+Regards, Billing",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,invoice_fake,2026-02-02,0
+M00127,email,YOUR PASSWORD EXPIRES TODAY,"Dear employee,
+Your email password will expire in a few hours.
+Update your password here: hxxps://secure-payments-check[.]test/login
+Mail Administrator",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,pw_expiry_fake,2026-02-25,0
+M00128,email,Verify your login credentials,"Dear user,
+Your sign-in session has expired and must be revalidated.
+Sign in to confirm: hxxps://shrt[.]test/foztp7
+This is an automated message.",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,pw_expiry_fake,2026-03-02,0
+M00129,email,MAILBOX PASSWORD EXPIRY NOTICE,"Attention Karan,
+Your mailbox is almost full and will stop receiving messages.!!
+Update your password here: hxxps://account-acme-portal[.]test/pay
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,pw_expiry_fake,2026-02-19,0
+M00130,email,EMAIL STORAGE FULL - SIGN IN,"Hello Meera,
+Your email password will expire in a few hours.!!
+Validate your account at hxxps://share-team[.]test/portal
+Mail Administrator",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,1,pw_expiry_fake,2026-02-20,0
+M00131,email,Verify your login credentials,"Attention Vikram,
+Your sign-in session has expired and must be revalidated.!!
+Sign in to confirm: hxxps://account-cloudsvc-check[.]test/claim
+Mail Administrator",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,pw_expiry_fake,2026-02-24,0
+M00132,email,EMAIL STORAGE FULL - SIGN IN,"Dear user,
+Your email password will expire in a few hours.
+Validate your account at hxxps://verify-cloudsvc-check[.]test/secure/confirm
+Mail Administrator",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,pw_expiry_fake,2026-02-26,0
+M00133,email,Verify your login credentials,"Dear user,
+Your email password will expire in a few hours.!!
+Update your password here: hxxps://login-payments-check[.]test/claim
+This is an automated message.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,internal,1,pw_expiry_fake,2026-03-05,0
+M00134,email,VERIFY YOUR LOGIN CREDENTIALS,"Attention Vikram,
+Your sign-in session has expired and must be revalidated.!!
+Update your password here: hxxps://files-team[.]test/sign-in
+Mail Administrator",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,internal,1,pw_expiry_fake,2026-02-17,0
+M00135,email,EMAIL STORAGE FULL - SIGN IN,"Dear employee,
+Your mailbox is almost full and will stop receiving messages.!!
+Keep your current password at hxxps://support-cloudsvc-center[.]test/pay
+Mail Administrator",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,pw_expiry_fake,2026-03-01,0
+M00136,email,YOUR PASSWORD EXPIRES TODAY,"Dear employee,
+Our system requires you to confirm your username and password.
+Sign in to confirm: hxxps://shrt[.]test/m95d0p
+Mail Administrator",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,pw_expiry_fake,2026-02-13,0
+M00137,email,Your password expires today,"Hello Vikram,
+We need you to re-enter your login credentials to keep your account active.!!
+Update your password here: hxxps://files-acme[.]test/sign-in
+Mail Administrator",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,pw_expiry_fake,2026-02-23,0
+M00138,email,VERIFY YOUR LOGIN CREDENTIALS,"Dear employee,
+We need you to re-enter your login credentials to keep your account active.!!
+Keep your current password at hxxps://shrt[.]test/nrm6df
+Mail Administrator",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,pw_expiry_fake,2026-02-16,0
+M00139,email,YOUR PASSWORD EXPIRES TODAY,"Dear user,
+Our system requires you to confirm your username and password.
+Validate your account at hxxps://account-acme-check[.]test/pay
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,internal,1,pw_expiry_fake,2026-03-01,0
+M00140,email,Email storage full - sign in,"Dear employee,
+Your sign-in session has expired and must be revalidated.!!
+Sign in to confirm: hxxps://secure-bankcorp-center[.]test/claim
+This is an automated message.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,pw_expiry_fake,2026-02-25,0
+M00141,email,Your password expires today,"Hello Anita,
+Your email password will expire in a few hours.!!
+Update your password here: hxxps://hrportal-workspace[.]test/sign-in
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,pw_expiry_fake,2026-02-28,0
+M00142,email,Verify your login credentials,"Dear employee,
+Your sign-in session has expired and must be revalidated.
+Keep your current password at hxxps://hrportal-team[.]test/view/68
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,pw_expiry_fake,2026-03-05,0
+M00143,email,VERIFY YOUR LOGIN CREDENTIALS,"Attention Arjun,
+Your email password will expire in a few hours.!!
+Validate your account at hxxps://verify-payments-center[.]test/verify
+This is an automated message.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,partner,1,pw_expiry_fake,2026-02-19,0
+M00145,email,Email storage full - sign in,"Hello Divya,
+Your mailbox is almost full and will stop receiving messages.!!
+Sign in to confirm: hxxps://verify-payments-online[.]test/secure/confirm
+Mail Administrator",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,pw_expiry_fake,2026-02-15,0
+M00147,email,Verify your login credentials,"Dear user,
+Your sign-in session has expired and must be revalidated.!!
+Keep your current password at hxxps://portal-workspace[.]test/open
+Mail Administrator",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,pw_expiry_fake,2026-03-05,0
+M00148,email,Mailbox password expiry notice,"Dear user,
+Our system requires you to confirm your username and password.!!
+Sign in to confirm: hxxps://share-workspace[.]test/open
+Mail Administrator",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,pw_expiry_fake,2026-02-13,0
+M00149,email,EMAIL STORAGE FULL - SIGN IN,"Attention Sneha,
+Our system requires you to confirm your username and password.!!
+Keep your current password at hxxps://account-bankcorp-center[.]test/secure/confirm
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,internal,1,pw_expiry_fake,2026-03-04,0
+M00150,email,YOUR PASSWORD EXPIRES TODAY,"Dear user,
+We need you to re-enter your login credentials to keep your account active.
+Validate your account at hxxps://short[.]test/js75el
+This is an automated message.",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,pw_expiry_fake,2026-02-27,0
+M00151,email,Verify your login credentials,"Attention Meera,
+Our system requires you to confirm your username and password.
+Validate your account at hxxps://portal-acme[.]test/sign-in
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,pw_expiry_fake,2026-02-14,0
+M00152,email,YOUR PASSWORD EXPIRES TODAY,"Attention Rahul,
+Your email password will expire in a few hours.!!
+Validate your account at hxxps://short[.]test/f2k1xe
+This is an automated message.",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,1,pw_expiry_fake,2026-02-28,0
+M00153,email,VERIFY YOUR LOGIN CREDENTIALS,"Hello Arjun,
+Your mailbox is almost full and will stop receiving messages.!!
+Update your password here: hxxps://short[.]test/7ssoqz
+IT Helpdesk",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,pw_expiry_fake,2026-02-25,0
+M00154,email,EMAIL STORAGE FULL - SIGN IN,"Dear employee,
+Your sign-in session has expired and must be revalidated.
+Update your password here: hxxps://short[.]test/ea84hx
+Mail Administrator",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,pw_expiry_fake,2026-02-28,0
+M00155,email,MAILBOX PASSWORD EXPIRY NOTICE,"Dear user,
+Your sign-in session has expired and must be revalidated.!!
+Keep your current password at hxxps://support-mailbox-check[.]test/secure/confirm
+This is an automated message.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,pw_expiry_fake,2026-02-26,0
+M00156,email,EMAIL STORAGE FULL - SIGN IN,"Dear employee,
+Your mailbox is almost full and will stop receiving messages.!!
+Sign in to confirm: hxxps://files-acme[.]test/view/74
+Mail Administrator",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,pw_expiry_fake,2026-03-01,0
+M00157,email,EMAIL STORAGE FULL - SIGN IN,"Dear user,
+Your mailbox is almost full and will stop receiving messages.
+Update your password here: hxxps://account-acme-portal[.]test/claim
+This is an automated message.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,pw_expiry_fake,2026-02-25,0
+M00158,email,YOUR PASSWORD EXPIRES TODAY,"Hello Imran,
+Your sign-in session has expired and must be revalidated.
+Keep your current password at hxxps://support-mailbox-online[.]test/claim
+Mail Administrator",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,pw_expiry_fake,2026-03-02,0
+M00159,email,VERIFY YOUR LOGIN CREDENTIALS,"Hello Rahul,
+We need you to re-enter your login credentials to keep your account active.!!
+Validate your account at hxxps://secure-acme-center[.]test/secure/confirm
+Mail Administrator",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,pw_expiry_fake,2026-02-15,0
+M00160,email,VERIFY YOUR LOGIN CREDENTIALS,"Attention Vikram,
+Your sign-in session has expired and must be revalidated.!!
+Validate your account at hxxps://support-payments-online[.]test/claim
+This is an automated message.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,pw_expiry_fake,2026-02-26,0
+M00161,email,YOUR PASSWORD EXPIRES TODAY,"Dear employee,
+We need you to re-enter your login credentials to keep your account active.
+Sign in to confirm: hxxps://docs-team[.]test/sign-in
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,pw_expiry_fake,2026-02-14,0
+M00162,email,Mailbox password expiry notice,"Attention Rahul,
+Your sign-in session has expired and must be revalidated.!!
+Keep your current password at hxxps://support-bankcorp-check[.]test/secure/confirm
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,pw_expiry_fake,2026-02-14,0
+M00163,email,Verify your login credentials,"Attention Anita,
+Your email password will expire in a few hours.!!
+Update your password here: hxxps://login-mailbox-center[.]test/claim
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,pw_expiry_fake,2026-02-26,0
+M00164,email,Verify your login credentials,"Hello Sneha,
+Your email password will expire in a few hours.
+Keep your current password at hxxps://portal-workspace[.]test/sign-in
+This is an automated message.",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,pw_expiry_fake,2026-02-28,0
+M00165,email,Email storage full - sign in,"Dear user,
+Your email password will expire in a few hours.
+Keep your current password at hxxps://login-acme-center[.]test/claim
+Mail Administrator",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,pw_expiry_fake,2026-03-03,0
+M00166,email,Mailbox password expiry notice,"Dear user,
+Your mailbox is almost full and will stop receiving messages.!!
+Update your password here: hxxps://account-cloudsvc-center[.]test/login
+Mail Administrator",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,pw_expiry_fake,2026-02-20,0
+M00167,email,MAILBOX PASSWORD EXPIRY NOTICE,"Hello Rahul,
+We need you to re-enter your login credentials to keep your account active.
+Update your password here: hxxps://secure-acme-online[.]test/claim
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,pw_expiry_fake,2026-03-04,0
+M00168,email,Email storage full - sign in,"Hello Karan,
+Your sign-in session has expired and must be revalidated.
+Keep your current password at hxxps://login-payments-online[.]test/update-account
+This is an automated message.",n_urls=1;shortener=0;host_hyphens=2;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,pw_expiry_fake,2026-02-28,0
+M00169,sms,,"Hi Karan, Your parcel INV-3658 is held at the depot. Reschedule here hxxps://lnk[.]test/vycs44",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-03-03,0
+M00170,sms,,"Hi Rahul, Your package could not be delivered due to an incomplete address. Update details: hxxps://short[.]test/tfpw6m Reply STOP to opt out.",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-03-10,0
+M00171,sms,,"Hi Vikram, Customs charge of 4191 USD is pending on your parcel. Track and confirm at hxxps://short[.]test/71v4kf Act within 24h.",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-03-04,0
+M00172,sms,,Courier notice: We missed you today and your item is waiting. Pay the fee at hxxps://shrt[.]test/5u7nte Reply STOP to opt out.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-02-27,0
+M00173,sms,,"Hi Sneha, A delivery fee of 1739 USD is due before we can redeliver. Reschedule here hxxps://shrt[.]test/014gve Reply STOP to opt out.",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-03-02,0
+M00174,sms,,"Hi Imran, Your package could not be delivered due to an incomplete address. Track and confirm at hxxps://shrt[.]test/mpyo2t Act within 24h.",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-03-10,0
+M00175,sms,,Courier notice: A delivery fee of 4832 USD is due before we can redeliver. Reschedule here hxxps://lnk[.]test/ccsg4o Act within 24h.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-02-28,0
+M00176,sms,,Delivery update: Your parcel INV-2253 is held at the depot. Reschedule here hxxps://lnk[.]test/34ogwp Reply STOP to opt out.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,1,package_smish,2026-03-10,0
+M00177,sms,,Parcel alert: Your parcel INV-8219 is held at the depot. Update details: hxxps://short[.]test/l0rcti Act within 24h.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-02-26,0
+M00178,sms,,Delivery update: A delivery fee of 1923 USD is due before we can redeliver. Pay the fee at hxxps://short[.]test/haba3y Reply STOP to opt out.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,1,package_smish,2026-03-11,0
+M00179,sms,,Delivery update: Your package could not be delivered due to an incomplete address. Pay the fee at hxxps://short[.]test/v9zy9y Reply STOP to opt out.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-03-17,0
+M00180,sms,,Delivery update: Your parcel INV-4348 is held at the depot. Update details: hxxps://lnk[.]test/lit6xi,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-03-13,0
+M00181,sms,,"Hi Anita, We missed you today and your item is waiting. Track and confirm at hxxps://shrt[.]test/ps0132",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,package_smish,2026-03-16,0
+M00183,sms,,Delivery update: Your package could not be delivered due to an incomplete address. Update details: hxxps://lnk[.]test/1mf07o Act within 24h.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-02-28,0
+M00184,sms,,Parcel alert: Your parcel INV-4925 is held at the depot. Update details: hxxps://short[.]test/vrydc1 Reply STOP to opt out.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-03-05,0
+M00185,sms,,Delivery update: Customs charge of 1192 USD is pending on your parcel. Track and confirm at hxxps://shrt[.]test/xaw7lw Act within 24h.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-02-28,0
+M00186,sms,,"Hi Sneha, A delivery fee of 738 USD is due before we can redeliver. Reschedule here hxxps://shrt[.]test/8yx7wr Act within 24h.",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,package_smish,2026-03-11,0
+M00187,sms,,"Hi Rahul, A delivery fee of 3105 USD is due before we can redeliver. Pay the fee at hxxps://shrt[.]test/a4l3kh",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,package_smish,2026-03-13,0
+M00188,sms,,Delivery update: We missed you today and your item is waiting. Update details: hxxps://lnk[.]test/kzh4oe Act within 24h.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,package_smish,2026-03-10,0
+M00190,sms,,Parcel alert: Customs charge of 3485 USD is pending on your parcel. Update details: hxxps://lnk[.]test/6gvgt2,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-03-04,0
+M00191,sms,,"Hi Meera, A delivery fee of 4209 USD is due before we can redeliver. Pay the fee at hxxps://lnk[.]test/hmewcj Act within 24h.",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,package_smish,2026-03-08,0
+M00193,sms,,Courier notice: We missed you today and your item is waiting. Reschedule here hxxps://lnk[.]test/k8sz7i Reply STOP to opt out.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-03-12,0
+M00194,sms,,Courier notice: A delivery fee of 4019 USD is due before we can redeliver. Update details: hxxps://short[.]test/s8pnne Reply STOP to opt out.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,package_smish,2026-03-02,0
+M00195,sms,,Parcel alert: We missed you today and your item is waiting. Update details: hxxps://lnk[.]test/jqnn6t,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-03-09,0
+M00196,sms,,Courier notice: Your package could not be delivered due to an incomplete address. Reschedule here hxxps://lnk[.]test/0pkr1i Reply STOP to opt out.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-03-13,0
+M00197,sms,,Delivery update: Your package could not be delivered due to an incomplete address. Reschedule here hxxps://shrt[.]test/n7zi6g,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-03-16,0
+M00198,sms,,Courier notice: We missed you today and your item is waiting. Update details: hxxps://lnk[.]test/wkr1tf,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,package_smish,2026-03-10,0
+M00199,sms,,Courier notice: Customs charge of 2866 USD is pending on your parcel. Update details: hxxps://shrt[.]test/szj4kj Act within 24h.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-02-26,0
+M00200,sms,,Delivery update: Your parcel INV-4077 is held at the depot. Pay the fee at hxxps://short[.]test/lhw4oq Reply STOP to opt out.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-02-26,0
+M00201,sms,,Parcel alert: Your package could not be delivered due to an incomplete address. Update details: hxxps://lnk[.]test/34df16 Act within 24h.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-03-07,0
+M00202,sms,,Parcel alert: Customs charge of 2643 USD is pending on your parcel. Reschedule here hxxps://shrt[.]test/776vgt,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,package_smish,2026-03-11,0
+M00203,sms,,Courier notice: A delivery fee of 1161 USD is due before we can redeliver. Track and confirm at hxxps://lnk[.]test/rtt3nu Reply STOP to opt out.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,package_smish,2026-02-28,0
+M00205,sms,,Delivery update: A delivery fee of 2552 USD is due before we can redeliver. Update details: hxxps://shrt[.]test/rxonbn Act within 24h.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,package_smish,2026-03-08,0
+M00206,sms,,"Hi Arjun, A delivery fee of 4306 USD is due before we can redeliver. Update details: hxxps://shrt[.]test/6ss1a2 Reply STOP to opt out.",n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,package_smish,2026-03-02,0
+M00208,sms,,Delivery update: We missed you today and your item is waiting. Update details: hxxps://shrt[.]test/qt3dgd Reply STOP to opt out.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,package_smish,2026-03-06,0
+M00209,sms,,Parcel alert: Your parcel INV-6304 is held at the depot. Track and confirm at hxxps://lnk[.]test/h6gb6p Reply STOP to opt out.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,package_smish,2026-03-16,0
+M00210,sms,,Parcel alert: A delivery fee of 2771 USD is due before we can redeliver. Pay the fee at hxxps://lnk[.]test/tfnm88 Reply STOP to opt out.,n_urls=1;shortener=1;host_hyphens=0;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,package_smish,2026-03-01,0
+M00211,email,Updated bank details for vendor payment,"Dear partner,
+Our finance contact has changed and your vendor profile must be refreshed.
+Please review it here: hxxps://hrportal-workspace[.]test/view/89
+Regards, Accounts",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,vendor_payment_polite,2026-03-30,0
+M00212,email,Please update your records,"Hi Rahul,
+A remittance advice for 3231 USD is ready for you.
+Please review it here: hxxps://share-team[.]test/portal
+Regards, Accounts",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,1,vendor_payment_polite,2026-03-31,0
+M00213,email,Please update your records,"Hello Arjun,
+A remittance advice for 653 USD is ready for you.
+Download the advice at hxxps://files-workspace[.]test/portal
+Thank you",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,vendor_payment_polite,2026-03-11,0
+M00214,email,Remittance advice INV-1484,"Dear partner,
+Please note our bank details have changed; kindly update your records before the next payment.
+Sign in at hxxps://hrportal-workspace[.]test/view/86 to confirm.
+Thank you",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,vendor_payment_polite,2026-03-19,0
+M00215,email,Payment schedule change,"Dear partner,
+Our finance contact has changed and your vendor profile must be refreshed.
+Sign in at hxxps://files-workspace[.]test/portal to confirm.
+Regards, Accounts",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,vendor_payment_polite,2026-03-21,0
+M00216,email,Updated bank details for vendor payment,"Dear partner,
+We have revised the payment schedule and need you to confirm the new instructions.
+Details at hxxps://portal-acme[.]test/sign-in
+Best wishes",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,vendor_payment_polite,2026-03-20,0
+M00217,email,Updated bank details for vendor payment,"Dear partner,
+Kindly sign in to review the updated invoice for 2464 USD.
+Sign in at hxxps://hrportal-acme[.]test/view/78 to confirm.
+Regards, Accounts",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,vendor_payment_polite,2026-03-22,0
+M00219,email,Payment schedule change,"Dear partner,
+A remittance advice for 3178 USD is ready for you.
+Details at hxxps://files-team[.]test/open
+Best wishes",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,vendor_payment_polite,2026-03-11,0
+M00220,email,Payment schedule change,"Good afternoon,
+We have revised the payment schedule and need you to confirm the new instructions.
+Sign in at hxxps://share-acme[.]test/portal to confirm.
+Regards, Accounts",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,vendor_payment_polite,2026-03-14,0
+M00221,email,Please update your records,"Hello Divya,
+Our finance contact has changed and your vendor profile must be refreshed.
+Please review it here: hxxps://hrportal-acme[.]test/sign-in
+Thank you",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,vendor_payment_polite,2026-03-18,0
+M00222,email,Payment schedule change,"Dear partner,
+Please note our bank details have changed; kindly update your records before the next payment.
+Details at hxxps://portal-acme[.]test/open
+Best wishes",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,vendor_payment_polite,2026-03-13,0
+M00223,email,Remittance advice INV-7836,"Good afternoon,
+Please note our bank details have changed; kindly update your records before the next payment.
+Sign in at hxxps://share-team[.]test/open to confirm.
+Best wishes",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,vendor_payment_polite,2026-03-29,0
+M00224,email,Payment schedule change,"Hi Karan,
+Please note our bank details have changed; kindly update your records before the next payment.
+Details at hxxps://files-team[.]test/open
+Thank you",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,vendor_payment_polite,2026-03-31,0
+M00225,email,Payment schedule change,"Hello Sneha,
+Kindly sign in to review the updated invoice for 2007 USD.
+Please review it here: hxxps://files-workspace[.]test/sign-in
+Regards, Accounts",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,vendor_payment_polite,2026-03-31,0
+M00226,email,Updated bank details for vendor payment,"Hi Anita,
+Our finance contact has changed and your vendor profile must be refreshed.
+Details at hxxps://share-team[.]test/sign-in
+Thank you",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,internal,1,vendor_payment_polite,2026-03-20,0
+M00227,email,Payment schedule change,"Good afternoon,
+A remittance advice for 4843 USD is ready for you.
+Download the advice at hxxps://portal-workspace[.]test/portal
+Best wishes",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,vendor_payment_polite,2026-03-31,0
+M00228,email,Payment schedule change,"Dear partner,
+We have revised the payment schedule and need you to confirm the new instructions.
+Download the advice at hxxps://hrportal-team[.]test/open
+Thank you",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,vendor_payment_polite,2026-03-23,0
+M00229,email,Updated bank details for vendor payment,"Dear partner,
+Please note our bank details have changed; kindly update your records before the next payment.
+Download the advice at hxxps://docs-workspace[.]test/portal
+Regards, Accounts",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,vendor_payment_polite,2026-03-17,0
+M00230,email,Remittance advice INV-8761,"Dear partner,
+We have revised the payment schedule and need you to confirm the new instructions.
+Please review it here: hxxps://share-acme[.]test/open
+Best wishes",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,1,vendor_payment_polite,2026-03-16,0
+M00231,email,Please update your records,"Dear partner,
+Our finance contact has changed and your vendor profile must be refreshed.
+Download the advice at hxxps://share-workspace[.]test/portal
+Best wishes",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,vendor_payment_polite,2026-03-27,0
+M00232,email,Remittance advice INV-8899,"Hi Sneha,
+Kindly sign in to review the updated invoice for 986 USD.
+Please review it here: hxxps://files-acme[.]test/view/17
+Thank you",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,vendor_payment_polite,2026-03-13,0
+M00233,email,Updated bank details for vendor payment,"Hello Arjun,
+Kindly sign in to review the updated invoice for 3025 USD.
+Download the advice at hxxps://docs-team[.]test/open
+Thank you",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,vendor_payment_polite,2026-03-27,0
+M00234,email,Remittance advice INV-9174,"Hi Divya,
+Our finance contact has changed and your vendor profile must be refreshed.
+Download the advice at hxxps://portal-workspace[.]test/view/28
+Regards, Accounts",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,1,vendor_payment_polite,2026-03-21,0
+M00235,email,Please update your records,"Hello Imran,
+Please note our bank details have changed; kindly update your records before the next payment.
+Sign in at hxxps://share-team[.]test/view/64 to confirm.
+Best wishes",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,vendor_payment_polite,2026-03-19,0
+M00236,email,Remittance advice INV-1959,"Good afternoon,
+Kindly sign in to review the updated invoice for 4074 USD.
+Details at hxxps://docs-team[.]test/sign-in
+Thank you",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,partner,1,vendor_payment_polite,2026-03-19,0
+M00237,email,Please update your records,"Dear partner,
+We have revised the payment schedule and need you to confirm the new instructions.
+Details at hxxps://files-team[.]test/view/23
+Best wishes",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,vendor_payment_polite,2026-03-27,0
+M00238,email,Please update your records,"Hello Anita,
+Kindly sign in to review the updated invoice for 2225 USD.
+Details at hxxps://files-team[.]test/view/93
+Best wishes",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,vendor_payment_polite,2026-03-22,0
+M00239,email,Remittance advice INV-9096,"Hello Meera,
+Kindly sign in to review the updated invoice for 1055 USD.
+Download the advice at hxxps://portal-team[.]test/sign-in
+Best wishes",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,vendor_payment_polite,2026-03-21,0
+M00240,email,Updated bank details for vendor payment,"Dear partner,
+Please note our bank details have changed; kindly update your records before the next payment.
+Sign in at hxxps://hrportal-workspace[.]test/portal to confirm.
+Thank you",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,vendor_payment_polite,2026-03-17,0
+M00241,email,Payment schedule change,"Hi Imran,
+Our finance contact has changed and your vendor profile must be refreshed.
+Sign in at hxxps://portal-team[.]test/view/31 to confirm.
+Regards, Accounts",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,1,vendor_payment_polite,2026-03-14,0
+M00242,email,Payment schedule change,"Good afternoon,
+Kindly sign in to review the updated invoice for 4290 USD.
+Sign in at hxxps://files-team[.]test/view/95 to confirm.
+Regards, Accounts",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,vendor_payment_polite,2026-03-13,0
+M00243,email,Remittance advice INV-4845,"Dear partner,
+Kindly sign in to review the updated invoice for 3232 USD.
+Details at hxxps://share-workspace[.]test/open
+Thank you",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,vendor_payment_polite,2026-03-23,0
+M00244,email,Remittance advice INV-6295,"Good afternoon,
+Kindly sign in to review the updated invoice for 1813 USD.
+Please review it here: hxxps://files-acme[.]test/sign-in
+Best wishes",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,vendor_payment_polite,2026-03-13,0
+M00245,email,Please update your records,"Hi Meera,
+Our finance contact has changed and your vendor profile must be refreshed.
+Details at hxxps://docs-workspace[.]test/sign-in
+Best wishes",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,vendor_payment_polite,2026-03-27,0
+M00246,email,Payment schedule change,"Dear partner,
+Please note our bank details have changed; kindly update your records before the next payment.
+Download the advice at hxxps://share-team[.]test/sign-in
+Regards, Accounts",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,vendor_payment_polite,2026-03-25,0
+M00247,email,Please update your records,"Good afternoon,
+Our finance contact has changed and your vendor profile must be refreshed.
+Details at hxxps://portal-team[.]test/view/28
+Best wishes",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,vendor_payment_polite,2026-03-26,0
+M00248,email,Updated bank details for vendor payment,"Dear partner,
+Kindly sign in to review the updated invoice for 2240 USD.
+Details at hxxps://files-acme[.]test/view/30
+Thank you",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,vendor_payment_polite,2026-03-26,0
+M00249,email,Updated bank details for vendor payment,"Hi Priya,
+Kindly sign in to review the updated invoice for 135 USD.
+Download the advice at hxxps://hrportal-acme[.]test/sign-in
+Regards, Accounts",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,vendor_payment_polite,2026-03-19,0
+M00250,email,Remittance advice INV-8756,"Hi Meera,
+Our finance contact has changed and your vendor profile must be refreshed.
+Details at hxxps://share-workspace[.]test/portal
+Regards, Accounts",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,vendor_payment_polite,2026-03-27,0
+M00252,email,Payment schedule change,"Good afternoon,
+Please note our bank details have changed; kindly update your records before the next payment.
+Sign in at hxxps://docs-workspace[.]test/portal to confirm.
+Thank you",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,vendor_payment_polite,2026-03-12,0
+M00253,email,IT ticket INV-3833 needs your input,"Hi Divya,
+A one-time sign-in is needed to finish the quarterly migration.
+Continue here: hxxps://portal-acme[.]test/portal
+Support",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,it_ticket_credential,2026-04-05,0
+M00254,email,One-time sign-in required,"Hi Arjun,
+Your device must complete a compliance check by entering your login details.
+Continue here: hxxps://portal-team[.]test/open
+Support",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,it_ticket_credential,2026-04-01,0
+M00255,email,IT ticket INV-2713 needs your input,"Hello Priya,
+A one-time sign-in is needed to finish the roadmap migration.
+Continue here: hxxps://files-team[.]test/sign-in
+Thanks for your help",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,it_ticket_credential,2026-03-31,0
+M00256,email,IT ticket INV-3286 needs your input,"Hi,
+To avoid losing access after the upgrade, please validate your account.
+Open the migration page: hxxps://hrportal-workspace[.]test/open
+Support",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,it_ticket_credential,2026-04-10,0
+M00257,email,Device compliance check,"Hi Sneha,
+To avoid losing access after the upgrade, please validate your account.
+Complete the check at hxxps://files-acme[.]test/open
+Thanks for your help",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,it_ticket_credential,2026-03-29,0
+M00258,email,Device compliance check,"Hi Arjun,
+Your device must complete a compliance check by entering your login details.
+Open the migration page: hxxps://hrportal-acme[.]test/portal
+Thanks for your help",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,1,it_ticket_credential,2026-04-10,0
+M00259,email,Device compliance check,"Hello Rahul,
+Your ticket INV-7833 requires you to confirm your sign-in details.
+Sign in at hxxps://share-team[.]test/portal
+Thanks for your help",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,it_ticket_credential,2026-03-28,0
+M00261,email,Device compliance check,"Hi Karan,
+Your device must complete a compliance check by entering your login details.
+Open the migration page: hxxps://hrportal-acme[.]test/portal
+IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,it_ticket_credential,2026-03-25,0
+M00262,email,IT ticket INV-8657 needs your input,"Hi,
+A one-time sign-in is needed to finish the vendor migration.
+Open the migration page: hxxps://files-workspace[.]test/sign-in
+IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,it_ticket_credential,2026-03-30,0
+M00263,email,Device compliance check,"Dear colleague,
+Your device must complete a compliance check by entering your login details.
+Open the migration page: hxxps://docs-workspace[.]test/sign-in
+Support",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,it_ticket_credential,2026-03-31,0
+M00264,email,Mailbox migration notice,"Hi,
+We are migrating mailboxes this week and need you to sign in once to keep your messages.
+Open the migration page: hxxps://share-workspace[.]test/open
+IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,1,it_ticket_credential,2026-04-05,0
+M00265,email,IT ticket INV-7527 needs your input,"Hi,
+Your device must complete a compliance check by entering your login details.
+Sign in at hxxps://share-workspace[.]test/view/78
+Support",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,it_ticket_credential,2026-04-03,0
+M00266,email,One-time sign-in required,"Hi,
+Your device must complete a compliance check by entering your login details.
+Complete the check at hxxps://portal-workspace[.]test/view/45
+Support",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,it_ticket_credential,2026-03-29,0
+M00267,email,One-time sign-in required,"Hi Karan,
+A one-time sign-in is needed to finish the quarterly migration.
+Open the migration page: hxxps://portal-team[.]test/open
+Support",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,1,it_ticket_credential,2026-03-25,0
+M00268,email,Device compliance check,"Hi Divya,
+Your ticket INV-8819 requires you to confirm your sign-in details.
+Open the migration page: hxxps://files-workspace[.]test/open
+Support",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,it_ticket_credential,2026-04-12,0
+M00269,email,Device compliance check,"Dear colleague,
+A one-time sign-in is needed to finish the onboarding migration.
+Sign in at hxxps://hrportal-acme[.]test/open
+Support",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,it_ticket_credential,2026-04-02,0
+M00270,email,IT ticket INV-5916 needs your input,"Hi,
+Your device must complete a compliance check by entering your login details.
+Continue here: hxxps://docs-acme[.]test/sign-in
+IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,1,it_ticket_credential,2026-04-06,0
+M00271,email,IT ticket INV-7119 needs your input,"Hi,
+We are migrating mailboxes this week and need you to sign in once to keep your messages.
+Complete the check at hxxps://files-team[.]test/view/45
+Thanks for your help",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,it_ticket_credential,2026-04-01,0
+M00272,email,One-time sign-in required,"Hi,
+Your device must complete a compliance check by entering your login details.
+Sign in at hxxps://files-workspace[.]test/sign-in
+Thanks for your help",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,it_ticket_credential,2026-04-06,0
+M00273,email,Device compliance check,"Hi,
+To avoid losing access after the upgrade, please validate your account.
+Sign in at hxxps://docs-workspace[.]test/view/57
+Support",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,1,it_ticket_credential,2026-04-05,0
+M00274,email,One-time sign-in required,"Hello Vikram,
+A one-time sign-in is needed to finish the onboarding migration.
+Complete the check at hxxps://docs-acme[.]test/portal
+IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,it_ticket_credential,2026-03-24,0
+M00275,email,Mailbox migration notice,"Hi,
+We are migrating mailboxes this week and need you to sign in once to keep your messages.
+Complete the check at hxxps://hrportal-workspace[.]test/portal
+IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,1,it_ticket_credential,2026-03-27,0
+M00276,email,One-time sign-in required,"Dear colleague,
+Your device must complete a compliance check by entering your login details.
+Sign in at hxxps://portal-acme[.]test/view/99
+Thanks for your help",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,1,it_ticket_credential,2026-04-01,0
+M00277,email,One-time sign-in required,"Hello Priya,
+We are migrating mailboxes this week and need you to sign in once to keep your messages.
+Open the migration page: hxxps://hrportal-acme[.]test/portal
+IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,it_ticket_credential,2026-03-28,0
+M00278,email,Mailbox migration notice,"Hi Anita,
+We are migrating mailboxes this week and need you to sign in once to keep your messages.
+Sign in at hxxps://hrportal-team[.]test/view/88
+Support",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,1,it_ticket_credential,2026-04-07,0
+M00279,email,One-time sign-in required,"Hi,
+We are migrating mailboxes this week and need you to sign in once to keep your messages.
+Open the migration page: hxxps://share-team[.]test/open
+Support",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,it_ticket_credential,2026-04-04,0
+M00280,email,Mailbox migration notice,"Hello Imran,
+A one-time sign-in is needed to finish the quarterly migration.
+Open the migration page: hxxps://files-workspace[.]test/open
+Support",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,it_ticket_credential,2026-04-13,0
+M00281,email,Device compliance check,"Hi,
+A one-time sign-in is needed to finish the roadmap migration.
+Continue here: hxxps://portal-acme[.]test/sign-in
+IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,it_ticket_credential,2026-03-31,0
+M00282,email,IT ticket INV-9320 needs your input,"Hello Sneha,
+A one-time sign-in is needed to finish the vendor migration.
+Open the migration page: hxxps://hrportal-workspace[.]test/portal
+IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,it_ticket_credential,2026-03-31,0
+M00283,email,One-time sign-in required,"Hi,
+To avoid losing access after the upgrade, please validate your account.
+Sign in at hxxps://hrportal-team[.]test/view/83
+Thanks for your help",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,it_ticket_credential,2026-04-10,0
+M00284,email,Mailbox migration notice,"Dear colleague,
+Your device must complete a compliance check by entering your login details.
+Sign in at hxxps://docs-workspace[.]test/sign-in
+Support",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,freemail,1,it_ticket_credential,2026-04-10,0
+M00285,email,One-time sign-in required,"Hi,
+Your ticket INV-8917 requires you to confirm your sign-in details.
+Complete the check at hxxps://portal-workspace[.]test/view/82
+IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,it_ticket_credential,2026-04-01,0
+M00286,email,Device compliance check,"Dear colleague,
+Your device must complete a compliance check by entering your login details.
+Continue here: hxxps://share-team[.]test/open
+Thanks for your help",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,1,it_ticket_credential,2026-04-01,0
+M00287,email,One-time sign-in required,"Hello Meera,
+A one-time sign-in is needed to finish the planning migration.
+Complete the check at hxxps://files-team[.]test/portal
+Thanks for your help",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,it_ticket_credential,2026-04-05,0
+M00288,email,Device compliance check,"Hi,
+To avoid losing access after the upgrade, please validate your account.
+Continue here: hxxps://files-acme[.]test/sign-in
+Thanks for your help",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,it_ticket_credential,2026-04-12,0
+M00289,email,Device compliance check,"Hi Imran,
+A one-time sign-in is needed to finish the vendor migration.
+Continue here: hxxps://docs-workspace[.]test/sign-in
+Thanks for your help",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,lookalike,1,it_ticket_credential,2026-04-08,0
+M00290,email,Device compliance check,"Hello Divya,
+A one-time sign-in is needed to finish the budget migration.
+Sign in at hxxps://portal-workspace[.]test/portal
+Support",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,1,it_ticket_credential,2026-03-25,0
+M00291,email,One-time sign-in required,"Hi,
+Your ticket INV-2905 requires you to confirm your sign-in details.
+Open the migration page: hxxps://docs-workspace[.]test/open
+Support",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,it_ticket_credential,2026-04-13,0
+M00293,email,Mailbox migration notice,"Hi Vikram,
+A one-time sign-in is needed to finish the safety migration.
+Sign in at hxxps://hrportal-acme[.]test/open
+Thanks for your help",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,1,it_ticket_credential,2026-04-07,0
+M00294,email,IT ticket INV-2067 needs your input,"Hi,
+We are migrating mailboxes this week and need you to sign in once to keep your messages.
+Continue here: hxxps://share-team[.]test/open
+Support",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,freemail,1,it_ticket_credential,2026-04-05,0
+M00421,email,Invitation: onboarding review,"Hi Priya,
+The roadmap call will be held on the usual video line.
+Join via the invite in your calendar.
+Regards",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-05-28,0
+M00422,email,Invitation: safety review,"Hi all,
+The budget call will be held on the usual video line.
+Reply with any agenda items.
+Regards",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-05-21,0
+M00423,email,Meeting: vendor sync,"Hello team,
+The quarterly meeting is scheduled for Wed 24 Oct in room 3268.
+See the calendar invite for details.
+See you there",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-05-23,0
+M00424,email,Invitation: vendor review,"Hi Arjun,
+We moved the quarterly review to Thu 6 Oct; the agenda is attached to the calendar invite.
+Reply with any agenda items.
+Regards",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,lookalike,0,meeting_invite,2026-05-23,0
+M00425,email,Invitation: onboarding review,"Hello team,
+We moved the roadmap review to Mon 3 Oct; the agenda is attached to the calendar invite.
+Join via the invite in your calendar.
+Thanks, Faisal",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-06-04,0
+M00426,email,Agenda for planning,"Hi Karan,
+The roadmap meeting is scheduled for Thu 1 Oct in room 4567.
+Join via the invite in your calendar.
+Thanks, Neha",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-05-19,0
+M00427,email,Agenda for quarterly,"Hello team,
+We moved the roadmap review to Tue 4 Oct; the agenda is attached to the calendar invite.
+See the calendar invite for details.
+Regards",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-05-26,0
+M00428,email,Rescheduled: safety stand-up,"Hello team,
+We moved the roadmap review to Thu 14 Oct; the agenda is attached to the calendar invite.
+Let me know if the time does not work.
+Thanks, Suresh",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,unknown_external,0,meeting_invite,2026-05-21,0
+M00429,email,Agenda for quarterly,"Hi Anita,
+The planning meeting is scheduled for Thu 7 Oct in room 7253.
+See the calendar invite for details.
+Regards",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,lookalike,0,meeting_invite,2026-05-26,0
+M00430,email,Invitation: roadmap review,"Hello team,
+We moved the quarterly review to Wed 4 Oct; the agenda is attached to the calendar invite.
+Reply with any agenda items.
+Regards",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-05-16,0
+M00431,email,Rescheduled: budget stand-up,"Good morning,
+We moved the quarterly review to Mon 3 Oct; the agenda is attached to the calendar invite.
+Join via the invite in your calendar.
+See you there",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-05-15,0
+M00432,email,Invitation: budget review,"Hi Meera,
+Please add your items to the planning agenda before Fri 13 Oct.
+Let me know if the time does not work.
+Regards",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,meeting_invite,2026-05-20,0
+M00433,email,Invitation: vendor review,"Good morning,
+Lunch will be provided at the budget session on Wed 10 Oct.
+See the calendar invite for details.
+Regards",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,meeting_invite,2026-05-30,0
+M00434,email,Agenda for safety,"Hi all,
+Please add your items to the vendor agenda before Fri 15 Oct.
+Join via the invite in your calendar.
+Regards",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-05-16,0
+M00435,email,Agenda for quarterly,"Hi all,
+The safety call will be held on the usual video line.
+Join via the invite in your calendar.
+See you there",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,unknown_external,0,meeting_invite,2026-05-25,0
+M00436,email,Agenda for onboarding,"Hi all,
+Please add your items to the vendor agenda before Fri 8 Oct.
+Join via the invite in your calendar.
+See you there",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-05-31,0
+M00437,email,Agenda for safety,"Hello team,
+The planning call will be held on the usual video line.
+Join via the invite in your calendar.
+See you there",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-06-02,0
+M00438,email,Agenda for vendor,"Hi all,
+Lunch will be provided at the vendor session on Tue 11 Oct.
+See the calendar invite for details.
+Thanks, Faisal",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-05-22,0
+M00439,email,Meeting: roadmap sync,"Hi Karan,
+We moved the budget review to Wed 8 Oct; the agenda is attached to the calendar invite.
+Reply with any agenda items.
+Thanks, Faisal",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,meeting_invite,2026-05-16,0
+M00440,email,Invitation: onboarding review,"Hi Priya,
+Lunch will be provided at the onboarding session on Thu 11 Oct.
+Join via the invite in your calendar.
+Regards",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-06-02,0
+M00441,email,Meeting: roadmap sync,"Hello team,
+We moved the planning review to Fri 20 Oct; the agenda is attached to the calendar invite.
+See the calendar invite for details.
+Thanks, Neha",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-05-15,0
+M00442,email,Invitation: quarterly review,"Hi all,
+We moved the planning review to Wed 22 Oct; the agenda is attached to the calendar invite.
+See the calendar invite for details.
+Thanks, Lakshmi",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-06-01,0
+M00443,email,Invitation: vendor review,"Good morning,
+We moved the safety review to Tue 16 Oct; the agenda is attached to the calendar invite.
+Join via the invite in your calendar.
+See you there",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,meeting_invite,2026-06-01,0
+M00444,email,Agenda for budget,"Hi all,
+The quarterly meeting is scheduled for Tue 8 Oct in room 2980.
+Let me know if the time does not work.
+See you there",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,freemail,0,meeting_invite,2026-05-15,0
+M00445,email,Invitation: onboarding review,"Hello team,
+Please add your items to the safety agenda before Fri 22 Oct.
+Reply with any agenda items.
+Regards",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-05-20,0
+M00446,email,Agenda for vendor,"Good morning,
+Lunch will be provided at the roadmap session on Fri 10 Oct.
+Reply with any agenda items.
+Thanks, Dinesh",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-06-03,0
+M00447,email,Rescheduled: safety stand-up,"Hello team,
+The vendor meeting is scheduled for Tue 23 Oct in room 1054.
+Join via the invite in your calendar.
+Regards",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-05-28,0
+M00448,email,Meeting: budget sync,"Hi Priya,
+The planning call will be held on the usual video line.
+Reply with any agenda items.
+Regards",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,unknown_external,0,meeting_invite,2026-05-20,0
+M00449,email,Meeting: onboarding sync,"Hello team,
+We moved the quarterly review to Thu 19 Oct; the agenda is attached to the calendar invite.
+See the calendar invite for details.
+Regards",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,meeting_invite,2026-05-20,0
+M00450,email,Meeting: onboarding sync,"Hi Priya,
+The roadmap meeting is scheduled for Mon 12 Oct in room 6849.
+Reply with any agenda items.
+Thanks, Lakshmi",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,freemail,0,meeting_invite,2026-05-22,0
+M00451,email,Invitation: planning review,"Hello team,
+The quarterly call will be held on the usual video line.
+Join via the invite in your calendar.
+See you there",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,unknown_external,0,meeting_invite,2026-05-29,0
+M00452,email,Meeting: quarterly sync,"Good morning,
+Please add your items to the roadmap agenda before Fri 15 Oct.
+See the calendar invite for details.
+Regards",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,meeting_invite,2026-05-15,0
+M00453,email,Invitation: quarterly review,"Good morning,
+Lunch will be provided at the onboarding session on Tue 20 Oct.
+Reply with any agenda items.
+See you there",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,lookalike,0,meeting_invite,2026-05-24,0
+M00454,email,Meeting: budget sync,"Good morning,
+The planning call will be held on the usual video line.
+Join via the invite in your calendar.
+Regards",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,meeting_invite,2026-06-01,0
+M00455,email,Meeting: safety sync,"Hi all,
+Please add your items to the vendor agenda before Mon 1 Oct.
+Reply with any agenda items.
+Thanks, Lakshmi",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-06-01,0
+M00456,email,Invitation: planning review,"Good morning,
+Please add your items to the vendor agenda before Wed 21 Oct.
+See the calendar invite for details.
+See you there",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,meeting_invite,2026-05-15,0
+M00457,email,Meeting: budget sync,"Good morning,
+We moved the safety review to Thu 18 Oct; the agenda is attached to the calendar invite.
+Join via the invite in your calendar.
+See you there",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-05-28,0
+M00458,email,Invitation: roadmap review,"Hello team,
+We moved the roadmap review to Thu 11 Oct; the agenda is attached to the calendar invite.
+See the calendar invite for details.
+See you there",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-05-22,0
+M00459,email,Agenda for planning,"Hello team,
+We moved the safety review to Fri 11 Oct; the agenda is attached to the calendar invite.
+See the calendar invite for details.
+Thanks, Neha",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-05-25,0
+M00460,email,Meeting: quarterly sync,"Hi Rahul,
+Please add your items to the planning agenda before Mon 12 Oct.
+Reply with any agenda items.
+See you there",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-05-28,0
+M00461,email,Meeting: roadmap sync,"Hi Anita,
+We moved the roadmap review to Wed 27 Oct; the agenda is attached to the calendar invite.
+Let me know if the time does not work.
+See you there",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,unknown_external,0,meeting_invite,2026-05-31,0
+M00462,email,Meeting: quarterly sync,"Hi Arjun,
+The roadmap call will be held on the usual video line.
+See the calendar invite for details.
+Regards",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,meeting_invite,2026-06-01,0
+M00463,email,Campus news this week,"Dear colleagues,
+New cafeteria menus start on Wed 27 Oct.
+Full story on the intranet: 
+Until next time",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,newsletter,2026-06-17,0
+M00464,email,Monthly newsletter: budget,"Hi readers,
+The annual vendor workshop registration is now open internally.
+Stop by the notice board for more.
+Until next time",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-07,0
+M00465,email,Monthly newsletter: vendor,"Hello everyone,
+Facilities will carry out routine cleaning over the weekend.
+Stop by the notice board for more.
+Newsletter team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-15,0
+M00466,email,Highlights from Mon 19 Oct,"Dear colleagues,
+New cafeteria menus start on Wed 7 Oct.
+Send feedback to the editor.
+Thanks for reading",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-08,0
+M00467,email,Campus news this week,"Hello everyone,
+This month we celebrate the onboarding team for a successful release.
+Send feedback to the editor.
+Until next time",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-17,0
+M00468,email,Highlights from Thu 26 Oct,"Welcome to this edition.
+This month we celebrate the roadmap team for a successful release.
+Send feedback to the editor.
+Newsletter team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-01,0
+M00469,email,Monthly newsletter: planning,"Dear colleagues,
+The annual planning workshop registration is now open internally.
+Send feedback to the editor.
+Thanks for reading",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,unknown_external,0,newsletter,2026-05-31,0
+M00470,email,Highlights from Mon 25 Oct,"Dear colleagues,
+New cafeteria menus start on Thu 15 Oct.
+Full story on the intranet: 
+Until next time",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,freemail,0,newsletter,2026-06-08,0
+M00471,email,Campus news this week,"Welcome to this edition.
+This month we celebrate the roadmap team for a successful release.
+Stop by the notice board for more.
+Until next time",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,newsletter,2026-05-29,0
+M00472,email,Highlights from Fri 24 Oct,"Dear colleagues,
+This month we celebrate the quarterly team for a successful release.
+Stop by the notice board for more.
+Newsletter team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-09,0
+M00473,email,Campus news this week,"Hello everyone,
+Read about our volunteering day and the photos from Thu 18 Oct.
+Full story on the intranet: 
+Newsletter team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-11,0
+M00474,email,Monthly newsletter: budget,"Hi readers,
+This month we celebrate the budget team for a successful release.
+Read more in the printed copy.
+Newsletter team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,unknown_external,0,newsletter,2026-06-06,0
+M00475,email,quarterly team update,"Hi readers,
+New cafeteria menus start on Thu 6 Oct.
+Send feedback to the editor.
+Newsletter team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-01,0
+M00476,email,roadmap team update,"Dear colleagues,
+The annual onboarding workshop registration is now open internally.
+Send feedback to the editor.
+Newsletter team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-13,0
+M00477,email,Campus news this week,"Welcome to this edition.
+Facilities will carry out routine cleaning over the weekend.
+Full story on the intranet: 
+Until next time",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-02,0
+M00478,email,Campus news this week,"Hello everyone,
+New cafeteria menus start on Wed 24 Oct.
+Full story on the intranet: 
+Newsletter team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-05-30,0
+M00479,email,Highlights from Fri 25 Oct,"Hi readers,
+New cafeteria menus start on Tue 2 Oct.
+Stop by the notice board for more.
+Until next time",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,unknown_external,0,newsletter,2026-06-07,0
+M00480,email,Monthly newsletter: planning,"Dear colleagues,
+The annual budget workshop registration is now open internally.
+Send feedback to the editor.
+Until next time",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,newsletter,2026-06-14,0
+M00481,email,Monthly newsletter: planning,"Hi readers,
+New cafeteria menus start on Tue 14 Oct.
+Stop by the notice board for more.
+Until next time",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-10,0
+M00482,email,Monthly newsletter: safety,"Hi readers,
+The annual roadmap workshop registration is now open internally.
+Send feedback to the editor.
+Until next time",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-10,0
+M00483,email,Highlights from Thu 27 Oct,"Hello everyone,
+The annual planning workshop registration is now open internally.
+Stop by the notice board for more.
+Newsletter team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-05-28,0
+M00484,email,Highlights from Wed 3 Oct,"Welcome to this edition.
+Read about our volunteering day and the photos from Mon 21 Oct.
+Send feedback to the editor.
+Until next time",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-06,0
+M00485,email,Highlights from Wed 20 Oct,"Welcome to this edition.
+Facilities will carry out routine cleaning over the weekend.
+Stop by the notice board for more.
+Newsletter team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,newsletter,2026-06-13,0
+M00486,email,planning team update,"Welcome to this edition.
+Facilities will carry out routine cleaning over the weekend.
+Full story on the intranet: 
+Thanks for reading",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-03,0
+M00487,email,Monthly newsletter: budget,"Welcome to this edition.
+Facilities will carry out routine cleaning over the weekend.
+Full story on the intranet: 
+Newsletter team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-13,0
+M00488,email,Campus news this week,"Hello everyone,
+This month we celebrate the budget team for a successful release.
+Read more in the printed copy.
+Newsletter team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,unknown_external,0,newsletter,2026-05-29,0
+M00489,email,Highlights from Fri 12 Oct,"Welcome to this edition.
+Facilities will carry out routine cleaning over the weekend.
+Full story on the intranet: 
+Newsletter team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,newsletter,2026-06-08,0
+M00490,email,onboarding team update,"Hi readers,
+This month we celebrate the planning team for a successful release.
+Send feedback to the editor.
+Newsletter team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-04,0
+M00491,email,Monthly newsletter: safety,"Hi readers,
+This month we celebrate the budget team for a successful release.
+Send feedback to the editor.
+Newsletter team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-05-30,0
+M00492,email,Highlights from Thu 17 Oct,"Welcome to this edition.
+The annual quarterly workshop registration is now open internally.
+Full story on the intranet: 
+Newsletter team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-08,0
+M00493,email,Highlights from Wed 10 Oct,"Dear colleagues,
+Read about our volunteering day and the photos from Thu 2 Oct.
+Stop by the notice board for more.
+Thanks for reading",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-05-28,0
+M00494,email,Highlights from Tue 24 Oct,"Welcome to this edition.
+New cafeteria menus start on Thu 20 Oct.
+Stop by the notice board for more.
+Thanks for reading",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,newsletter,2026-06-13,0
+M00495,email,Campus news this week,"Welcome to this edition.
+New cafeteria menus start on Wed 12 Oct.
+Read more in the printed copy.
+Until next time",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,newsletter,2026-06-02,0
+M00496,email,Monthly newsletter: planning,"Hi readers,
+New cafeteria menus start on Wed 4 Oct.
+Stop by the notice board for more.
+Thanks for reading",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-02,0
+M00497,email,Highlights from Mon 14 Oct,"Hello everyone,
+This month we celebrate the planning team for a successful release.
+Send feedback to the editor.
+Newsletter team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-05,0
+M00498,email,Highlights from Wed 9 Oct,"Welcome to this edition.
+New cafeteria menus start on Thu 6 Oct.
+Full story on the intranet: 
+Until next time",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-07,0
+M00499,email,Campus news this week,"Welcome to this edition.
+New cafeteria menus start on Thu 28 Oct.
+Send feedback to the editor.
+Thanks for reading",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,newsletter,2026-06-05,0
+M00500,email,roadmap team update,"Hello everyone,
+Facilities will carry out routine cleaning over the weekend.
+Stop by the notice board for more.
+Newsletter team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-02,0
+M00501,email,Highlights from Tue 4 Oct,"Hi readers,
+This month we celebrate the planning team for a successful release.
+Full story on the intranet: 
+Thanks for reading",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-05,0
+M00502,email,Monthly newsletter: roadmap,"Hi readers,
+Read about our volunteering day and the photos from Thu 9 Oct.
+Send feedback to the editor.
+Until next time",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-03,0
+M00503,email,Campus news this week,"Dear colleagues,
+The annual safety workshop registration is now open internally.
+Full story on the intranet: 
+Thanks for reading",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,newsletter,2026-06-12,0
+M00504,email,Highlights from Tue 25 Oct,"Hello everyone,
+Read about our volunteering day and the photos from Wed 14 Oct.
+Read more in the printed copy.
+Until next time",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,newsletter,2026-06-02,0
+M00505,sms,,Courier notice: your order is out for delivery with driver Neha. Thanks for shopping with us.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-18,0
+M00506,sms,,Courier notice: your order is ready for collection at the reception. Track it in the retailer app you used to order.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-24,0
+M00507,sms,,Delivery update: your order is ready for collection at the reception. Track it in the retailer app you used to order. Reply STOP to opt out.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,delivery_legit,2026-06-17,0
+M00508,sms,,"Hi Divya, your order will be delivered today between 2 and 5 pm. Thanks for shopping with us.",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-20,0
+M00509,sms,,Order INV-5368: your order has been dispatched and will arrive on Wed 12 Oct. No action is needed. Reply STOP to opt out.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,unknown_external,0,delivery_legit,2026-06-14,0
+M00510,sms,,Delivery update: your order was delivered to the front desk. Thanks for shopping with us.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,delivery_legit,2026-06-19,0
+M00511,sms,,Order INV-7352: your order is ready for collection at the reception. Questions? Call the number on your receipt. Reply STOP to opt out.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,delivery_legit,2026-06-19,0
+M00512,sms,,Delivery update: your order is out for delivery with driver Neha. Thanks for shopping with us.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,delivery_legit,2026-06-26,0
+M00513,sms,,Order INV-9252: your order was delivered to the front desk. Track it in the retailer app you used to order.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-22,0
+M00514,sms,,"Hi Imran, your order has been dispatched and will arrive on Tue 25 Oct. No action is needed. Reply STOP to opt out.",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-17,0
+M00515,sms,,"Hi Priya, your order was delivered to the front desk. Questions? Call the number on your receipt.",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-26,0
+M00516,sms,,Order INV-3325: your order is out for delivery with driver Kavya. Questions? Call the number on your receipt.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-12,0
+M00517,sms,,"Hi Anita, your order is out for delivery with driver Faisal. Track it in the retailer app you used to order.",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-26,0
+M00518,sms,,Delivery update: your order will be delivered today between 2 and 5 pm. No action is needed. Reply STOP to opt out.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-10,0
+M00519,sms,,Courier notice: your order is ready for collection at the reception. Thanks for shopping with us. Reply STOP to opt out.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-21,0
+M00520,sms,,Order INV-3119: your order is out for delivery with driver Kavya. Track it in the retailer app you used to order.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,freemail,0,delivery_legit,2026-06-28,0
+M00521,sms,,"Hi Karan, your order will be delivered today between 2 and 5 pm. Questions? Call the number on your receipt. Reply STOP to opt out.",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-29,0
+M00522,sms,,Delivery update: your order will be delivered today between 2 and 5 pm. Track it in the retailer app you used to order. Reply STOP to opt out.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,unknown_external,0,delivery_legit,2026-06-22,0
+M00523,sms,,"Hi Rahul, your order will be delivered today between 2 and 5 pm. Questions? Call the number on your receipt.",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,delivery_legit,2026-06-23,0
+M00524,sms,,Courier notice: your order has been dispatched and will arrive on Tue 3 Oct. Questions? Call the number on your receipt.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-25,0
+M00525,sms,,"Hi Anita, your order is out for delivery with driver Dinesh. No action is needed.",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-12,0
+M00526,sms,,Courier notice: your order is out for delivery with driver Kavya. Track it in the retailer app you used to order. Reply STOP to opt out.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-10,0
+M00527,sms,,"Hi Karan, your order will be delivered today between 2 and 5 pm. No action is needed.",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-16,0
+M00528,sms,,Courier notice: your order was delivered to the front desk. No action is needed.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-13,0
+M00529,sms,,Order INV-8868: your order has been dispatched and will arrive on Tue 3 Oct. Questions? Call the number on your receipt. Reply STOP to opt out.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-20,0
+M00531,sms,,Delivery update: your order is ready for collection at the reception. No action is needed.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,delivery_legit,2026-06-18,0
+M00532,sms,,"Hi Arjun, your order has been dispatched and will arrive on Fri 7 Oct. Questions? Call the number on your receipt. Reply STOP to opt out.",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-23,0
+M00533,sms,,Order INV-2030: your order will be delivered today between 2 and 5 pm. Questions? Call the number on your receipt.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-18,0
+M00535,sms,,Order INV-2642: your order is ready for collection at the reception. No action is needed. Reply STOP to opt out.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,unknown_external,0,delivery_legit,2026-06-14,0
+M00536,sms,,"Hi Vikram, your order will be delivered today between 2 and 5 pm. Thanks for shopping with us. Reply STOP to opt out.",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-14,0
+M00537,sms,,Order INV-4623: your order was delivered to the front desk. Questions? Call the number on your receipt.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,lookalike,0,delivery_legit,2026-06-22,0
+M00538,sms,,Order INV-5713: your order has been dispatched and will arrive on Mon 5 Oct. Thanks for shopping with us.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,unknown_external,0,delivery_legit,2026-06-10,0
+M00539,sms,,Order INV-8936: your order was delivered to the front desk. Thanks for shopping with us.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-17,0
+M00540,sms,,Order INV-5120: your order has been dispatched and will arrive on Thu 14 Oct. Track it in the retailer app you used to order.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,unknown_external,0,delivery_legit,2026-06-26,0
+M00541,sms,,"Hi Arjun, your order will be delivered today between 2 and 5 pm. Thanks for shopping with us.",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,unknown_external,0,delivery_legit,2026-06-27,0
+M00542,sms,,Delivery update: your order is ready for collection at the reception. Thanks for shopping with us.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-10,0
+M00544,sms,,Order INV-1794: your order has been dispatched and will arrive on Mon 20 Oct. Track it in the retailer app you used to order. Reply STOP to opt out.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,delivery_legit,2026-06-14,0
+M00546,sms,,Courier notice: your order is ready for collection at the reception. Questions? Call the number on your receipt.,n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,delivery_legit,2026-06-18,0
+M00547,email,Password reset requested,"Helpdesk notice:
+Your password was changed today. If this was you, no action is needed.
+Open a ticket at hxxps://hr[.]acme-corp[.]test/payroll if you need help.
+Automated notice",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,0,pw_reset_legit,2026-07-03,1
+M00548,email,Helpdesk: password reset completed,"Helpdesk notice:
+Your password will be reset on request; we will never ask for your password by email.
+Use the self-service page on the intranet: hxxps://hr[.]acme-corp[.]test/payroll
+Thanks, IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,internal,0,pw_reset_legit,2026-07-03,1
+M00549,email,Your password reset code,"Hello Priya,
+Your password will be reset on request; we will never ask for your password by email.
+Use the self-service page on the intranet: hxxps://hr[.]acme-corp[.]test/reset
+Thanks, IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,pw_reset_legit,2026-07-13,1
+M00550,email,Password reset requested,"Dear colleague,
+You asked to reset your password; this must be done within 30 minutes.
+Use the self-service page on the intranet: hxxps://helpdesk[.]acme-corp[.]test/news
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,pw_reset_legit,2026-07-03,1
+M00551,email,Password reset requested,"Helpdesk notice:
+Your temporary code is 7210. It expires shortly.
+Visit hxxps://helpdesk[.]acme-corp[.]test/benefits to complete the reset.
+Thanks, IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,lookalike,0,pw_reset_legit,2026-07-10,1
+M00552,email,Your password reset code,"Hello Karan,
+You asked to reset your password; this must be done within 30 minutes.
+Visit hxxps://it[.]acme-corp[.]test/reset to complete the reset.
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,0,pw_reset_legit,2026-06-23,1
+M00553,email,Your password reset code,"Helpdesk notice:
+Your temporary code is 8342. It expires shortly.
+Visit hxxps://intranet[.]acme-corp[.]test/reset to complete the reset.
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,pw_reset_legit,2026-06-25,1
+M00554,email,Reset your password - action needed,"Dear colleague,
+You asked to reset your password; this must be done within 30 minutes.
+Visit hxxps://it[.]acme-corp[.]test/benefits to complete the reset.
+Automated notice",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,pw_reset_legit,2026-06-25,1
+M00555,email,Helpdesk: password reset completed,"Hello Divya,
+Your password was changed today. If this was you, no action is needed.
+Visit hxxps://finance[.]acme-corp[.]test/reset to complete the reset.
+Thanks, IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,pw_reset_legit,2026-07-05,1
+M00556,email,Reset your password - action needed,"Helpdesk notice:
+Your temporary code is 266. It expires shortly.
+Use the self-service page on the intranet: hxxps://hr[.]acme-corp[.]test/tickets
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,0,pw_reset_legit,2026-06-29,1
+M00557,email,Your password reset code,"Dear colleague,
+You asked to reset your password; this must be done within 30 minutes.
+Call ext. 4400 if this was not you.
+Thanks, IT Service Desk",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,pw_reset_legit,2026-07-03,1
+M00558,email,Helpdesk: password reset completed,"Helpdesk notice:
+Your temporary code is 1877. It expires shortly.
+Open a ticket at hxxps://helpdesk[.]acme-corp[.]test/benefits if you need help.
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,pw_reset_legit,2026-07-03,1
+M00559,email,Helpdesk: password reset completed,"Hi Priya,
+Your temporary code is 3751. It expires shortly.
+Call ext. 4400 if this was not you.
+Automated notice",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,pw_reset_legit,2026-07-03,1
+M00560,email,Reset your password - action needed,"Dear colleague,
+Your password was changed today. If this was you, no action is needed.
+Visit hxxps://intranet[.]acme-corp[.]test/reset to complete the reset.
+Thanks, IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,pw_reset_legit,2026-07-08,1
+M00561,email,Password reset requested,"Hello Karan,
+A reset was requested for your account. Urgent: tell the helpdesk if it was not you.
+Use the self-service page on the intranet: hxxps://it[.]acme-corp[.]test/news
+Thanks, IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,pw_reset_legit,2026-06-29,1
+M00562,email,Your password reset code,"Hello Divya,
+Your password was changed today. If this was you, no action is needed.
+Open a ticket at hxxps://hr[.]acme-corp[.]test/tickets if you need help.
+Automated notice",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,pw_reset_legit,2026-07-07,1
+M00563,email,Reset your password - action needed,"Hi Sneha,
+A reset was requested for your account. Urgent: tell the helpdesk if it was not you.
+Visit hxxps://helpdesk[.]acme-corp[.]test/reset to complete the reset.
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,0,pw_reset_legit,2026-07-01,1
+M00564,email,Reset your password - action needed,"Helpdesk notice:
+A reset was requested for your account. Urgent: tell the helpdesk if it was not you.
+Open a ticket at hxxps://hr[.]acme-corp[.]test/benefits if you need help.
+Thanks, IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,0,pw_reset_legit,2026-06-23,1
+M00565,email,Reset your password - action needed,"Hello Karan,
+Your temporary code is 7767. It expires shortly.
+Open a ticket at hxxps://helpdesk[.]acme-corp[.]test/reset if you need help.
+Thanks, IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,0,pw_reset_legit,2026-07-05,1
+M00566,email,Helpdesk: password reset completed,"Hi Divya,
+You asked to reset your password; this must be done within 30 minutes.
+Open a ticket at hxxps://it[.]acme-corp[.]test/reset if you need help.
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,0,pw_reset_legit,2026-07-11,1
+M00567,email,Reset your password - action needed,"Hello Arjun,
+Your password will be reset on request; we will never ask for your password by email.
+Call ext. 4400 if this was not you.
+Thanks, IT Service Desk",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,pw_reset_legit,2026-07-11,1
+M00568,email,Helpdesk: password reset completed,"Hello Priya,
+You asked to reset your password; this must be done within 30 minutes.
+Use the self-service page on the intranet: hxxps://finance[.]acme-corp[.]test/benefits
+Thanks, IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,pw_reset_legit,2026-06-27,1
+M00569,email,Password reset requested,"Hi Anita,
+A reset was requested for your account. Urgent: tell the helpdesk if it was not you.
+Open a ticket at hxxps://finance[.]acme-corp[.]test/passwords if you need help.
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,0,pw_reset_legit,2026-07-07,1
+M00570,email,Helpdesk: password reset completed,"Dear colleague,
+Your password was changed today. If this was you, no action is needed.
+Call ext. 4400 if this was not you.
+Automated notice",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,pw_reset_legit,2026-06-28,1
+M00571,email,Reset your password - action needed,"Hello Rahul,
+Your temporary code is 9906. It expires shortly.
+Visit hxxps://it[.]acme-corp[.]test/payroll to complete the reset.
+Thanks, IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,internal,0,pw_reset_legit,2026-07-04,1
+M00573,email,Reset your password - action needed,"Hi Karan,
+Your password will be reset on request; we will never ask for your password by email.
+Open a ticket at hxxps://finance[.]acme-corp[.]test/reset if you need help.
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,pw_reset_legit,2026-06-26,1
+M00577,email,Password reset requested,"Dear colleague,
+Your password was changed today. If this was you, no action is needed.
+Call ext. 4400 if this was not you.
+Automated notice",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,pw_reset_legit,2026-07-11,1
+M00579,email,Your password reset code,"Hi Sneha,
+You asked to reset your password; this must be done within 30 minutes.
+Visit hxxps://finance[.]acme-corp[.]test/reset to complete the reset.
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,pw_reset_legit,2026-07-12,1
+M00580,email,Your password reset code,"Helpdesk notice:
+Your password will be reset on request; we will never ask for your password by email.
+Call ext. 4400 if this was not you.
+IT Helpdesk",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,freemail,0,pw_reset_legit,2026-07-10,1
+M00581,email,Password reset requested,"Dear colleague,
+A reset was requested for your account. Urgent: tell the helpdesk if it was not you.
+Call ext. 4400 if this was not you.
+Thanks, IT Service Desk",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,pw_reset_legit,2026-07-12,1
+M00582,email,Password reset requested,"Hi Karan,
+Your password was changed today. If this was you, no action is needed.
+Open a ticket at hxxps://intranet[.]acme-corp[.]test/reset if you need help.
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,pw_reset_legit,2026-06-30,1
+M00583,email,Reset your password - action needed,"Dear colleague,
+Your password was changed today. If this was you, no action is needed.
+Open a ticket at hxxps://intranet[.]acme-corp[.]test/payroll if you need help.
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,internal,0,pw_reset_legit,2026-07-06,1
+M00584,email,Reset your password - action needed,"Dear colleague,
+Your password was changed today. If this was you, no action is needed.
+Call ext. 4400 if this was not you.
+Thanks, IT Service Desk",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,pw_reset_legit,2026-07-11,1
+M00585,email,Reset your password - action needed,"Dear colleague,
+Your temporary code is 9431. It expires shortly.
+Visit hxxps://hr[.]acme-corp[.]test/news to complete the reset.
+IT Helpdesk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,0,pw_reset_legit,2026-07-07,1
+M00586,email,Your password reset code,"Dear colleague,
+You asked to reset your password; this must be done within 30 minutes.
+Visit hxxps://intranet[.]acme-corp[.]test/reset to complete the reset.
+Automated notice",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,0,pw_reset_legit,2026-06-27,1
+M00587,email,Password reset requested,"Hello Vikram,
+Your password will be reset on request; we will never ask for your password by email.
+Visit hxxps://it[.]acme-corp[.]test/payroll to complete the reset.
+Automated notice",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,unknown_external,0,pw_reset_legit,2026-06-27,1
+M00588,email,Helpdesk: password reset completed,"Dear colleague,
+You asked to reset your password; this must be done within 30 minutes.
+Open a ticket at hxxps://intranet[.]acme-corp[.]test/news if you need help.
+Thanks, IT Service Desk",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,pw_reset_legit,2026-07-13,1
+M00589,email,Payslip available,"Reminder from HR:
+The benefits enrolment window closes on Tue 15 Oct, please review your choices.
+No further action is needed.
+Payroll team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,payroll_legit,2026-07-24,1
+M00590,email,Benefits enrolment deadline,"Reminder from HR:
+Urgent: timesheets must be submitted before the payroll cut-off.
+Call HR on ext. 4100 for help.
+Thanks, HR",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,payroll_legit,2026-07-07,1
+M00591,email,Payroll processed,"Dear colleague,
+Direct deposit is scheduled for Fri 26 Oct; contact HR with questions.
+Call HR on ext. 4100 for help.
+Payroll team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,payroll_legit,2026-07-12,1
+M00592,email,Payroll processed,"Reminder from HR:
+Your payslip for this month is available on the intranet; no action is required.
+Log in to the usual HR system via the intranet: hxxps://finance[.]acme-corp[.]test/payroll
+Thanks, HR",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,internal,0,payroll_legit,2026-07-07,1
+M00593,email,Payroll cut-off reminder,"Reminder from HR:
+Urgent: timesheets must be submitted before the payroll cut-off.
+No further action is needed.
+HR Services",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,lookalike,0,payroll_legit,2026-07-11,1
+M00594,email,Payslip available,"Hello Priya,
+Direct deposit is scheduled for Mon 3 Oct; contact HR with questions.
+Log in to the usual HR system via the intranet: hxxps://hr[.]acme-corp[.]test/benefits
+Payroll team",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,payroll_legit,2026-07-23,1
+M00595,email,Payslip available,"Hi team,
+The benefits enrolment window closes on Thu 28 Oct, please review your choices.
+Call HR on ext. 4100 for help.
+Thanks, HR",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,payroll_legit,2026-07-24,1
+M00596,email,Payslip available,"Reminder from HR:
+Your payslip for this month is available on the intranet; no action is required.
+Call HR on ext. 4100 for help.
+HR Services",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,payroll_legit,2026-07-08,1
+M00597,email,Benefits enrolment deadline,"Hello Imran,
+Payroll will be processed on Thu 14 Oct; submit timesheets by 5 pm today.
+Call HR on ext. 4100 for help.
+Thanks, HR",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,payroll_legit,2026-07-20,1
+M00598,email,Payroll cut-off reminder,"Reminder from HR:
+Payroll will be processed on Mon 24 Oct; submit timesheets by 5 pm today.
+Call HR on ext. 4100 for help.
+Thanks, HR",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,payroll_legit,2026-07-18,1
+M00599,email,Payslip available,"Hi team,
+Urgent: timesheets must be submitted before the payroll cut-off.
+Details are on the intranet: hxxps://helpdesk[.]acme-corp[.]test/benefits
+Payroll team",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,payroll_legit,2026-07-10,1
+M00600,email,Payroll cut-off reminder,"Dear colleague,
+Direct deposit is scheduled for Mon 25 Oct; contact HR with questions.
+No further action is needed.
+Payroll team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,payroll_legit,2026-07-15,1
+M00601,email,Benefits enrolment deadline,"Hello Vikram,
+Payroll will be processed on Fri 7 Oct; submit timesheets by 5 pm today.
+Call HR on ext. 4100 for help.
+HR Services",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,payroll_legit,2026-07-25,1
+M00602,email,Payroll cut-off reminder,"Hi team,
+Your payslip for this month is available on the intranet; no action is required.
+Details are on the intranet: hxxps://hr[.]acme-corp[.]test/reset
+HR Services",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,0,payroll_legit,2026-07-21,1
+M00603,email,Payroll cut-off reminder,"Hello Sneha,
+Urgent: timesheets must be submitted before the payroll cut-off.
+No further action is needed.
+HR Services",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,payroll_legit,2026-07-20,1
+M00604,email,Benefits enrolment deadline,"Dear colleague,
+Direct deposit is scheduled for Wed 26 Oct; contact HR with questions.
+No further action is needed.
+HR Services",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,payroll_legit,2026-07-20,1
+M00605,email,Benefits enrolment deadline,"Hi team,
+Urgent: timesheets must be submitted before the payroll cut-off.
+Details are on the intranet: hxxps://it[.]acme-corp[.]test/tickets
+Thanks, HR",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,payroll_legit,2026-07-09,1
+M00606,email,Payroll processed,"Hi team,
+Your payslip for this month is available on the intranet; no action is required.
+Call HR on ext. 4100 for help.
+Thanks, HR",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,payroll_legit,2026-07-15,1
+M00607,email,Payroll cut-off reminder,"Dear colleague,
+The benefits enrolment window closes on Wed 14 Oct, please review your choices.
+Details are on the intranet: hxxps://finance[.]acme-corp[.]test/news
+Thanks, HR",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,0,payroll_legit,2026-07-07,1
+M00608,email,Benefits enrolment deadline,"Hi team,
+Payroll will be processed on Thu 8 Oct; submit timesheets by 5 pm today.
+No further action is needed.
+HR Services",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,payroll_legit,2026-07-25,1
+M00609,email,Payslip available,"Reminder from HR:
+The benefits enrolment window closes on Wed 21 Oct, please review your choices.
+Call HR on ext. 4100 for help.
+HR Services",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,payroll_legit,2026-07-09,1
+M00610,email,Payroll cut-off reminder,"Hello Karan,
+Urgent: timesheets must be submitted before the payroll cut-off.
+Details are on the intranet: hxxps://helpdesk[.]acme-corp[.]test/passwords
+Thanks, HR",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,payroll_legit,2026-07-20,1
+M00611,email,Payroll cut-off reminder,"Dear colleague,
+Direct deposit is scheduled for Wed 2 Oct; contact HR with questions.
+Log in to the usual HR system via the intranet: hxxps://hr[.]acme-corp[.]test/passwords
+Payroll team",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,payroll_legit,2026-07-08,1
+M00612,email,Payslip available,"Hi team,
+Urgent: timesheets must be submitted before the payroll cut-off.
+Log in to the usual HR system via the intranet: hxxps://intranet[.]acme-corp[.]test/payroll
+HR Services",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,internal,0,payroll_legit,2026-07-08,1
+M00613,email,Benefits enrolment deadline,"Hi team,
+Urgent: timesheets must be submitted before the payroll cut-off.
+Log in to the usual HR system via the intranet: hxxps://helpdesk[.]acme-corp[.]test/benefits
+Payroll team",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,0,payroll_legit,2026-07-25,1
+M00614,email,Payroll cut-off reminder,"Dear colleague,
+The benefits enrolment window closes on Fri 17 Oct, please review your choices.
+Call HR on ext. 4100 for help.
+Payroll team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,payroll_legit,2026-07-09,1
+M00615,email,Payslip available,"Reminder from HR:
+The benefits enrolment window closes on Wed 6 Oct, please review your choices.
+Log in to the usual HR system via the intranet: hxxps://hr[.]acme-corp[.]test/payroll
+HR Services",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,internal,0,payroll_legit,2026-07-23,1
+M00616,email,Benefits enrolment deadline,"Reminder from HR:
+Payroll will be processed on Mon 22 Oct; submit timesheets by 5 pm today.
+Details are on the intranet: hxxps://helpdesk[.]acme-corp[.]test/benefits
+Payroll team",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,payroll_legit,2026-07-10,1
+M00617,email,Payslip available,"Dear colleague,
+Urgent: timesheets must be submitted before the payroll cut-off.
+Log in to the usual HR system via the intranet: hxxps://hr[.]acme-corp[.]test/passwords
+Thanks, HR",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,0,payroll_legit,2026-07-09,1
+M00618,email,Payroll processed,"Reminder from HR:
+Payroll will be processed on Thu 18 Oct; submit timesheets by 5 pm today.
+No further action is needed.
+HR Services",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,payroll_legit,2026-07-19,1
+M00619,email,Benefits enrolment deadline,"Dear colleague,
+Your payslip for this month is available on the intranet; no action is required.
+Details are on the intranet: hxxps://finance[.]acme-corp[.]test/payroll
+HR Services",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,partner,0,payroll_legit,2026-07-10,1
+M00620,email,Payslip available,"Dear colleague,
+The benefits enrolment window closes on Thu 8 Oct, please review your choices.
+Log in to the usual HR system via the intranet: hxxps://it[.]acme-corp[.]test/passwords
+Payroll team",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,0,payroll_legit,2026-07-21,1
+M00621,email,Benefits enrolment deadline,"Dear colleague,
+Direct deposit is scheduled for Wed 21 Oct; contact HR with questions.
+Log in to the usual HR system via the intranet: hxxps://helpdesk[.]acme-corp[.]test/reset
+Thanks, HR",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,0,payroll_legit,2026-07-06,1
+M00622,email,Payslip available,"Dear colleague,
+Your payslip for this month is available on the intranet; no action is required.
+Details are on the intranet: hxxps://hr[.]acme-corp[.]test/news
+Thanks, HR",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,0,payroll_legit,2026-07-08,1
+M00623,email,Payroll processed,"Reminder from HR:
+Payroll will be processed on Wed 3 Oct; submit timesheets by 5 pm today.
+Call HR on ext. 4100 for help.
+Payroll team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,payroll_legit,2026-07-11,1
+M00624,email,Payslip available,"Reminder from HR:
+Urgent: timesheets must be submitted before the payroll cut-off.
+No further action is needed.
+Payroll team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,unknown_external,0,payroll_legit,2026-07-22,1
+M00625,email,Payslip available,"Hi team,
+The benefits enrolment window closes on Thu 9 Oct, please review your choices.
+Details are on the intranet: hxxps://it[.]acme-corp[.]test/passwords
+Payroll team",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,0,payroll_legit,2026-07-19,1
+M00626,email,Payroll cut-off reminder,"Dear colleague,
+Your payslip for this month is available on the intranet; no action is required.
+Call HR on ext. 4100 for help.
+Thanks, HR",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,payroll_legit,2026-07-08,1
+M00627,email,Payroll cut-off reminder,"Reminder from HR:
+Payroll will be processed on Mon 22 Oct; submit timesheets by 5 pm today.
+Log in to the usual HR system via the intranet: hxxps://hr[.]acme-corp[.]test/benefits
+HR Services",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,payroll_legit,2026-07-06,1
+M00628,email,Payroll cut-off reminder,"Dear colleague,
+Payroll will be processed on Mon 10 Oct; submit timesheets by 5 pm today.
+Call HR on ext. 4100 for help.
+Payroll team",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,payroll_legit,2026-07-13,1
+M00629,email,Payroll cut-off reminder,"Hi team,
+Urgent: timesheets must be submitted before the payroll cut-off.
+Log in to the usual HR system via the intranet: hxxps://finance[.]acme-corp[.]test/payroll
+Thanks, HR",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=1;defanged=1;live_form=0,partner,0,payroll_legit,2026-07-12,1
+M00630,email,Payroll cut-off reminder,"Reminder from HR:
+Direct deposit is scheduled for Thu 15 Oct; contact HR with questions.
+No further action is needed.
+Thanks, HR",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,payroll_legit,2026-07-17,1
+M00631,email,Expense report INV-8531 approved,"Dear partner,
+We received your payment of 1251 USD; thank you.
+No action is required.
+Thanks",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-08-06,0
+M00632,email,Invoice INV-5759,"Hello Rahul,
+Invoice INV-1522 for 1086 USD has been approved and will be paid on Thu 14 Oct.
+No action is required.
+Thanks",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-08-07,0
+M00633,email,Payment received for INV-7985,"Dear partner,
+Invoice INV-8562 for 20 USD has been approved and will be paid on Wed 24 Oct.
+Contact accounts if the amount looks wrong.
+Thanks",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-08-07,0
+M00634,email,Invoice INV-5682,"Dear partner,
+We received your payment of 2095 USD; thank you.
+View it in the finance system: hxxps://hr[.]acme-corp[.]test/passwords
+Thanks",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,finance_legit,2026-08-04,0
+M00635,email,Expense report INV-2689 approved,"Hi Meera,
+Your expense claim INV-9141 for 3348 USD was approved.
+Reply with questions.
+Regards, Finance",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,freemail,0,finance_legit,2026-08-01,0
+M00636,email,Expense report INV-6371 approved,"Hello Imran,
+Your expense claim INV-2812 for 2977 USD was approved.
+View it in the finance system: hxxps://helpdesk[.]acme-corp[.]test/benefits
+Thanks",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,0,finance_legit,2026-07-25,0
+M00637,email,Invoice INV-7061,"Dear partner,
+Please find purchase order INV-5836 for 1287 USD in the finance system.
+View it in the finance system: hxxps://hr[.]acme-corp[.]test/news
+Regards, Finance",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,finance_legit,2026-07-20,0
+M00638,email,Purchase order INV-7672 approved,"Hello Imran,
+Your expense claim INV-2960 for 2522 USD was approved.
+No action is required.
+Accounts payable",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-07-22,0
+M00639,email,Payment received for INV-3023,"Accounts payable:
+The statement for Thu 27 Oct is available from your account manager.
+Contact accounts if the amount looks wrong.
+Accounts payable",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-07-23,0
+M00640,email,Payment received for INV-3110,"Hello Karan,
+We received your payment of 386 USD; thank you.
+View it in the finance system: hxxps://intranet[.]acme-corp[.]test/passwords
+Accounts payable",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,partner,0,finance_legit,2026-07-28,0
+M00641,email,Payment received for INV-2366,"Dear partner,
+Please find purchase order INV-3204 for 2717 USD in the finance system.
+Reply with questions.
+Thanks",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-07-23,0
+M00642,email,Purchase order INV-8327 approved,"Hello Imran,
+Invoice INV-6286 for 2120 USD has been approved and will be paid on Fri 19 Oct.
+Contact accounts if the amount looks wrong.
+Thanks",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-08-05,0
+M00643,email,Purchase order INV-7452 approved,"Dear partner,
+Invoice INV-7022 for 1242 USD has been approved and will be paid on Fri 6 Oct.
+Reply with questions.
+Regards, Finance",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-08-01,0
+M00644,email,Expense report INV-4584 approved,"Accounts payable:
+Please find purchase order INV-8824 for 2947 USD in the finance system.
+Reply with questions.
+Thanks",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,finance_legit,2026-07-28,0
+M00645,email,Payment received for INV-6482,"Hi Divya,
+Please find purchase order INV-7992 for 3323 USD in the finance system.
+Reply with questions.
+Regards, Finance",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-08-08,0
+M00646,email,Purchase order INV-8857 approved,"Hi Sneha,
+Your expense claim INV-1132 for 4166 USD was approved.
+View it in the finance system: hxxps://helpdesk[.]acme-corp[.]test/tickets
+Accounts payable",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,finance_legit,2026-07-30,0
+M00647,email,Expense report INV-8938 approved,"Dear partner,
+Your expense claim INV-2031 for 2468 USD was approved.
+Reply with questions.
+Accounts payable",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,finance_legit,2026-08-08,0
+M00648,email,Purchase order INV-7828 approved,"Hi Karan,
+Invoice INV-1366 for 40 USD has been approved and will be paid on Thu 18 Oct.
+Reply with questions.
+Regards, Finance",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-07-28,0
+M00649,email,Purchase order INV-6510 approved,"Dear partner,
+We received your payment of 173 USD; thank you.
+Contact accounts if the amount looks wrong.
+Regards, Finance",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-07-23,0
+M00650,email,Invoice INV-6897,"Dear partner,
+The statement for Wed 20 Oct is available from your account manager.
+Contact accounts if the amount looks wrong.
+Regards, Finance",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-08-08,0
+M00651,email,Payment received for INV-3368,"Dear partner,
+Invoice INV-2601 for 4016 USD has been approved and will be paid on Wed 17 Oct.
+Reply with questions.
+Thanks",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-07-22,0
+M00652,email,Expense report INV-3039 approved,"Accounts payable:
+The statement for Mon 4 Oct is available from your account manager.
+Reply with questions.
+Thanks",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,finance_legit,2026-07-31,0
+M00653,email,Payment received for INV-2603,"Dear partner,
+The statement for Tue 12 Oct is available from your account manager.
+Contact accounts if the amount looks wrong.
+Regards, Finance",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-07-21,0
+M00654,email,Purchase order INV-6077 approved,"Hi Vikram,
+Your expense claim INV-2024 for 4671 USD was approved.
+Contact accounts if the amount looks wrong.
+Accounts payable",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-07-29,0
+M00655,email,Purchase order INV-2698 approved,"Accounts payable:
+We received your payment of 3113 USD; thank you.
+Reply with questions.
+Thanks",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-07-29,0
+M00656,email,Expense report INV-7259 approved,"Dear partner,
+Invoice INV-8026 for 4878 USD has been approved and will be paid on Tue 15 Oct.
+Contact accounts if the amount looks wrong.
+Thanks",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-07-29,0
+M00657,email,Expense report INV-9325 approved,"Hello Sneha,
+Invoice INV-8619 for 4472 USD has been approved and will be paid on Tue 25 Oct.
+Contact accounts if the amount looks wrong.
+Accounts payable",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-08-04,0
+M00658,email,Payment received for INV-5872,"Hello Sneha,
+Your expense claim INV-4779 for 323 USD was approved.
+Contact accounts if the amount looks wrong.
+Thanks",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-07-21,0
+M00659,email,Expense report INV-2931 approved,"Hello Karan,
+We received your payment of 48 USD; thank you.
+Reply with questions.
+Thanks",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,partner,0,finance_legit,2026-07-30,0
+M00660,email,Purchase order INV-6103 approved,"Dear partner,
+We received your payment of 744 USD; thank you.
+Contact accounts if the amount looks wrong.
+Accounts payable",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,freemail,0,finance_legit,2026-07-21,0
+M00661,email,Payment received for INV-5155,"Hello Priya,
+We received your payment of 1978 USD; thank you.
+Contact accounts if the amount looks wrong.
+Regards, Finance",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,unknown_external,0,finance_legit,2026-08-08,0
+M00662,email,Payment received for INV-9189,"Hi Rahul,
+Invoice INV-2918 for 3614 USD has been approved and will be paid on Tue 27 Oct.
+View it in the finance system: hxxps://hr[.]acme-corp[.]test/tickets
+Accounts payable",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,finance_legit,2026-07-22,0
+M00663,email,Invoice INV-6593,"Hello Meera,
+Invoice INV-1405 for 2787 USD has been approved and will be paid on Wed 22 Oct.
+Reply with questions.
+Thanks",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-08-04,0
+M00664,email,Purchase order INV-1669 approved,"Accounts payable:
+The statement for Mon 22 Oct is available from your account manager.
+Reply with questions.
+Accounts payable",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-07-26,0
+M00665,email,Purchase order INV-7572 approved,"Hi Sneha,
+Invoice INV-3303 for 4424 USD has been approved and will be paid on Thu 11 Oct.
+View it in the finance system: hxxps://helpdesk[.]acme-corp[.]test/benefits
+Accounts payable",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,finance_legit,2026-07-29,0
+M00666,email,Purchase order INV-5056 approved,"Hello Sneha,
+Invoice INV-7502 for 4362 USD has been approved and will be paid on Thu 18 Oct.
+Contact accounts if the amount looks wrong.
+Regards, Finance",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-08-01,0
+M00667,email,Purchase order INV-3580 approved,"Hi Imran,
+The statement for Mon 14 Oct is available from your account manager.
+Reply with questions.
+Thanks",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-07-21,0
+M00668,email,Purchase order INV-7526 approved,"Hello Anita,
+We received your payment of 3841 USD; thank you.
+View it in the finance system: hxxps://intranet[.]acme-corp[.]test/passwords
+Thanks",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,finance_legit,2026-08-05,0
+M00669,email,Purchase order INV-1171 approved,"Hi Priya,
+Invoice INV-9708 for 638 USD has been approved and will be paid on Wed 24 Oct.
+No action is required.
+Thanks",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-07-23,0
+M00670,email,Expense report INV-4716 approved,"Hello Imran,
+The statement for Fri 4 Oct is available from your account manager.
+View it in the finance system: hxxps://intranet[.]acme-corp[.]test/benefits
+Accounts payable",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,unknown_external,0,finance_legit,2026-08-02,0
+M00671,email,Expense report INV-6666 approved,"Hello Arjun,
+Your expense claim INV-8554 for 1950 USD was approved.
+View it in the finance system: hxxps://helpdesk[.]acme-corp[.]test/reset
+Regards, Finance",n_urls=1;shortener=0;host_hyphens=1;host_digits=0;cred_path=0;defanged=1;live_form=0,internal,0,finance_legit,2026-07-29,0
+M00672,email,Payment received for INV-5863,"Dear partner,
+We received your payment of 4946 USD; thank you.
+Contact accounts if the amount looks wrong.
+Accounts payable",n_urls=0;shortener=0;host_hyphens=0;host_digits=0;cred_path=0;defanged=0;live_form=0,internal,0,finance_legit,2026-08-07,0

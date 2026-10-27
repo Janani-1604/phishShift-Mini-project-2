@@ -1,0 +1,2 @@
+file,source,license,collected_by,method,rows,url_policy,privacy,generated_on
+data/raw_messages.csv,"Locally authored synthetic simulations (generate_data.py, seed 42)",Original work by the project team; no third-party data; free to reuse for education,Project team,Template composition: subject/opener/core/call-to-action/closer variants with random slots,930,All links on reserved .test domains; defanged (hxxp / [.]); no attachments,"Fictional first names only; no real credentials, mailboxes or personal data",2026-10-19
