@@ -1,4 +1,3 @@
-"""One command to reproduce everything: python run_all.py"""
 import subprocess, sys
 steps = ["generate_data.py", "prepare_data.py", "train_eval.py", "robustness.py"]
 for s in steps:
